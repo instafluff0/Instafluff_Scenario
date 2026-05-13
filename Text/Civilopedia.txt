@@ -9772,5 +9772,5 @@ institutions such as the International Criminal Court in The Hague.
 ^
 ^
 ^
-^The Statue of Liberty, officially titled *Liberty Enlightening the World*, was a gift from France to the United States, dedicated in 1886 as a symbol of freedom and friendship between nations. Designed by sculptor Fr?d?ric Auguste Bartholdi, with its iron framework engineered by Gustave Eiffel, the statue stands on Liberty Island in New York Harbor. Holding a torch aloft and a tablet inscribed with the date of American independence, it became one of the most recognizable symbols of liberty, democracy, and hope for immigrants arriving in America.
+^The Statue of Liberty, officially titled *Liberty Enlightening the World*, was a gift from France to the United States, dedicated in 1886 as a symbol of freedom and friendship between nations. Designed by sculptor Frederic Auguste Bartholdi, with its iron framework engineered by Gustave Eiffel, the statue stands on Liberty Island in New York Harbor. Holding a torch aloft and a tablet inscribed with the date of American independence, it became one of the most recognizable symbols of liberty, democracy, and hope for immigrants arriving in America.
 #EOF
