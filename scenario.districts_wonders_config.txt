@@ -18,7 +18,7 @@
   ;  - buildable_by_civ_traits        : Comma-separated trait names (e.g., Commercial, Militaristic).
   ;  - buildable_by_civ_govs          : Comma-separated government names (e.g., Republic, Monarchy).
   ;  - buildable_by_civ_cultures      : Comma-separated culture names (e.g., EURO, ASIAN).
-  ;  - img_path                       : Text. PCX filename (under Art/Districts/1200/). Defaults to Wonders.pcx if omitted.
+  ;  - img_path                       : Text. PCX filename (under Districts/1200/). Defaults to Wonders.pcx if omitted.
   ;  - img_construct_row              : Number (required). Row index in the PCX for the "under construction" wonder art (0-based).
   ;  - img_construct_column           : Number (required). Column index in the PCX for the "under construction" wonder art (0-based).
   ;  - img_row                        : Number (required). Row index in the PCX for the completed wonder art (0-based).
@@ -33,125 +33,141 @@
 ]
 
 #Wonder
-name                 = The Pyramids
+img_construct_row            = 0
+img_construct_column         = 0
+img_row                      = 0
+img_column                   = 1
+name                         = "The Statue of Liberty"
+img_path                     = "WondersCustom.PCX"
+enable_img_alt_dir           = 1
+img_alt_dir_construct_row    = 0
+img_alt_dir_construct_column = 2
+img_alt_dir_row              = 0
+img_alt_dir_column           = 3
+buildable_on                 = coast
+buildable_by_civs            = "America"
+buildable_by_civ_govs        = "Democracy"
+
+#Wonder
+name                 = "The Pyramids"
 buildable_on         = desert
-img_path             = Wonders.pcx
+img_path             = "Wonders.pcx"
 img_construct_row    = 0
 img_construct_column = 0
 img_row              = 0
 img_column           = 1
 
 #Wonder
-name                 = The Hanging Gardens
-img_path             = Wonders.pcx
+name                 = "The Hanging Gardens"
+img_path             = "Wonders.pcx"
 img_construct_row    = 0
 img_construct_column = 2
 img_row              = 0
 img_column           = 3
 
 #Wonder
-name                 = The Oracle
+name                 = "The Oracle"
 buildable_on         = hills
-img_path             = Wonders.pcx
+img_path             = "Wonders.pcx"
 img_construct_row    = 1
 img_construct_column = 0
 img_row              = 1
 img_column           = 1
 
 #Wonder
-name                 = The Temple of Artemis
-img_path             = Wonders.pcx
+name                 = "The Temple of Artemis"
+img_path             = "Wonders.pcx"
 img_construct_row    = 1
 img_construct_column = 2
 img_row              = 1
 img_column           = 3
 
 #Wonder
-name                 = The Mausoleum of Mausollos
-img_path             = Wonders.pcx
+name                 = "The Mausoleum of Mausollos"
+img_path             = "Wonders.pcx"
 img_construct_row    = 2
 img_construct_column = 0
 img_row              = 2
 img_column           = 1
 
 #Wonder
-name                 = The Statue of Zeus
-img_path             = Wonders.pcx
+name                 = "The Statue of Zeus"
+img_path             = "Wonders.pcx"
 img_construct_row    = 2
 img_construct_column = 2
 img_row              = 2
 img_column           = 3
 
 #Wonder
-name                 = The Great Library
-img_path             = Wonders.pcx
+name                 = "The Great Library"
+img_path             = "Wonders.pcx"
 img_construct_row    = 3
 img_construct_column = 0
 img_row              = 3
 img_column           = 1
 
 #Wonder
-name                 = Copernicus' Observatory
-img_path             = Wonders.pcx
+name                 = "Copernicus' Observatory"
+img_path             = "Wonders.pcx"
 img_construct_row    = 3
 img_construct_column = 2
 img_row              = 3
 img_column           = 3
 
 #Wonder
-name                 = JS Bach's Cathedral
-img_path             = Wonders_2.pcx
+name                 = "JS Bach's Cathedral"
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 0
 img_construct_column = 0
 img_row              = 0
 img_column           = 1
 
 #Wonder
-name                 = Newton's University
-img_path             = Wonders_2.pcx
+name                 = "Newton's University"
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 0
 img_construct_column = 2
 img_row              = 0
 img_column           = 3
 
 #Wonder
-name                 = SETI program
-img_path             = Wonders_2.pcx
+name                 = "SETI program"
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 1
 img_construct_column = 0
 img_row              = 1
 img_column           = 1
 
 #Wonder
-name                 = Shakespeare's Theater
-img_path             = Wonders_2.pcx
+name                 = "Shakespeare's Theater"
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 1
 img_construct_column = 2
 img_row              = 1
 img_column           = 3
 
 #Wonder
-name                 = Sistine Chapel
-img_path             = Wonders_2.pcx
+name                 = "Sistine Chapel"
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 2
 img_construct_column = 0
 img_row              = 2
 img_column           = 1
 
 #Wonder
-name                 = The Great Lighthouse
+name                 = "The Great Lighthouse"
 buildable_on         = coast
-img_path             = Wonders_2.pcx
+img_path             = "Wonders_2.pcx"
 img_construct_row    = 2
 img_construct_column = 2
 img_row              = 2
 img_column           = 3
 
 #Wonder
-name                         = The Colossus
+name                         = "The Colossus"
 buildable_on                 = coast
 enable_img_alt_dir           = 1
-img_path                     = Wonders_2.pcx
+img_path                     = "Wonders_2.pcx"
 img_construct_row            = 3
 img_construct_column         = 0
 img_row                      = 3
@@ -162,11 +178,11 @@ img_alt_dir_row              = 3
 img_alt_dir_column           = 3
 
 #Wonder
-name                         = Hoover Dam
+name                         = "Hoover Dam"
 buildable_on                 = mountains
 buildable_on_rivers          = 1
 enable_img_alt_dir           = 1
-img_path                     = Wonders_3.pcx
+img_path                     = "Wonders_3.pcx"
 img_construct_row            = 0
 img_construct_column         = 0
 img_row                      = 0
@@ -177,56 +193,48 @@ img_alt_dir_row              = 0
 img_alt_dir_column           = 3
 
 #Wonder
-name                 = Apollo Program
-img_path             = SmallWonders.pcx
+name                 = "Apollo Program"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 0
 img_construct_column = 0
 img_row              = 0
 img_column           = 1
 
 #Wonder
-name                 = Forbidden Palace
-img_path             = SmallWonders.pcx
-img_construct_row    = 0
-img_construct_column = 2
-img_row              = 0
-img_column           = 3
-
-#Wonder
-name                 = Intelligence Agency
-img_path             = SmallWonders.pcx
+name                 = "Intelligence Agency"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 1
 img_construct_column = 0
 img_row              = 1
 img_column           = 1
 
 #Wonder
-name                 = The Pentagon
-img_path             = SmallWonders.pcx
+name                 = "The Pentagon"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 1
 img_construct_column = 2
 img_row              = 1
 img_column           = 3
 
 #Wonder
-name                 = Military Academy
-img_path             = SmallWonders.pcx
+name                 = "Military Academy"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 2
 img_construct_column = 0
 img_row              = 2
 img_column           = 1
 
 #Wonder
-name                 = Iron Works
-img_path             = SmallWonders.pcx
+name                 = "Iron Works"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 2
 img_construct_column = 2
 img_row              = 2
 img_column           = 3
 
 #Wonder
-name                 = Wall Street
-img_path             = SmallWonders.pcx
+name                 = "Wall Street"
+img_path             = "SmallWonders.pcx"
 img_construct_row    = 3
 img_construct_column = 0
 img_row              = 3

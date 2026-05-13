@@ -1970,10 +1970,10 @@ art\civilopedia\icons\buildings\knightstemplarsmall.pcx
 #ICON_BLDG_STATUE_OF_LIBERTY
 SINGLE
 32
-art\civilopedia\icons\buildings\colossuslarge.pcx
-art\civilopedia\icons\buildings\colossussmall.pcx
+Art\Civilopedia\Icons\Buildings\statue_of_liberty.pcx
+Art\Civilopedia\Icons\Buildings\statue_of_liberty_sm.pcx
 #WON_SPLASH_BLDG_STATUE_OF_LIBERTY
-art\wonder splash\Colossus.pcx
+Art\Wonder Splash\statue_of_liberty_splash.pcx
 #END CIVILOPEDIA ART
 
 ######################################################################
