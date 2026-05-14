@@ -1970,10 +1970,63 @@ art\civilopedia\icons\buildings\knightstemplarsmall.pcx
 #ICON_BLDG_STATUE_OF_LIBERTY
 SINGLE
 32
-Art\Civilopedia\Icons\Buildings\statue_of_liberty.pcx
+Art\Civilopedia\Icons\Buildings\statue_of_liberty_lg.pcx
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_sm.pcx
 #WON_SPLASH_BLDG_STATUE_OF_LIBERTY
 Art\Wonder Splash\statue_of_liberty_splash.pcx
+#ICON_PRTO_DRONE
+art\civilopedia\icons\units\drone.pcx
+art\civilopedia\icons\units\drone_small.pcx
+#ANIMNAME_PRTO_DRONE
+GunDrone
+#ICON_PRTO_SPARTAN_PHALANX
+Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Large.pcx
+Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Small.pcx
+#ANIMNAME_PRTO_SPARTAN_PHALANX
+SpartanPhalanx
+#TECH_ADVANCED_SEMICONDUCTORS
+Art\tech chooser\Icons\semiconductor_sm.pcx
+#TECH_ADVANCED_SEMICONDUCTORS_LARGE
+Art\tech chooser\Icons\semiconductor_lg.pcx
+#TECH_AGI
+Art\tech chooser\Icons\agi_small.pcx
+#TECH_AGI_LARGE
+Art\tech chooser\Icons\agi.pcx
+#TECH_HIGHDENSITY_BATTERIES
+Art\tech chooser\Icons\highdensity_energy_storage_small.pcx
+#TECH_HIGHDENSITY_BATTERIES_LARGE
+Art\tech chooser\Icons\highdensity_energy_storage.pcx
+#TECH_DRONES
+Art\tech chooser\Icons\drone_warfare_small.pcx
+#TECH_DRONES_LARGE
+Art\tech chooser\Icons\drone_warfare.pcx
+#ICON_GOOD_FOSSILS
+art\civilopedia\icons\resources\fossils.pcx
+art\civilopedia\icons\resources\fossils_small.pcx
+#ICON_GOOD_FILMS
+art\civilopedia\icons\resources\films.pcx
+art\civilopedia\icons\resources\films_small.pcx
+#ICON_GOOD_MUSIC
+art\civilopedia\icons\resources\music.pcx
+art\civilopedia\icons\resources\music_small.pcx
+#ICON_GOOD_NITER
+art\civilopedia\icons\resources\niter.pcx
+art\civilopedia\icons\resources\niter_small.pcx
+#ICON_GOOD_SILICON_WAFERS
+art\civilopedia\icons\resources\silicon_wafers.pcx
+art\civilopedia\icons\resources\silicon_wafers_small.pcx
+#ICON_GOOD_GLASSWARE
+art\civilopedia\icons\resources\murano_glass.pcx
+art\civilopedia\icons\resources\murano_glass_small.pcx
+#ICON_GOOD_RELIGIOUS_RELICS
+art\civilopedia\icons\resources\religious_relics.pcx
+art\civilopedia\icons\resources\religious_relics_small.pcx
+#ICON_GOOD_MERCENARIES
+art\civilopedia\icons\resources\spartan.pcx
+art\civilopedia\icons\resources\spartan_small.pcx
+#ICON_GOOD_DESIGNER_GOODS
+art\civilopedia\icons\resources\designer_goods.pcx
+art\civilopedia\icons\resources\designer_goods_small.pcx
 #END CIVILOPEDIA ART
 
 ######################################################################
