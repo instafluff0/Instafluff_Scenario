@@ -9,7 +9,7 @@ art\advisors\CL_all.pcx
 art\leaderheads\AL.pcx
 art\advisors\AL_all.pcx
 #RACE_BABYLON
-art\leaderheads\HA.pcx
+art\leaderheads\vatican.pcx
 art\advisors\HA_all.pcx
 #RACE_GERMANS
 art\leaderheads\BS.pcx
@@ -39,7 +39,7 @@ art\advisors\XE_all.pcx
 art\leaderheads\MN.pcx
 art\advisors\MN_all.pcx
 #RACE_ZULU
-art\leaderheads\ZU.pcx
+art\leaderheads\singapore.pcx
 art\advisors\ZU_all.pcx
 #RACE_IROQUOIS
 art\leaderheads\HI.pcx
@@ -72,16 +72,16 @@ art\advisors\x_Hannibal advisor.pcx
 art\leaderheads\x_Wang Kon victory neutral.pcx
 art\advisors\x_Wang Kon advisor.pcx
 #RACE_SUMERIA
-art\leaderheads\x2_Gilgamesh victory neutral.pcx
+art\leaderheads\venice.pcx
 art\advisors\x2_Gilgamesh advisor.pcx
 #RACE_HATTI
-art\leaderheads\x2_Mursilis victory neutral.pcx
+art\leaderheads\dubai.pcx
 art\advisors\x2_Mursilis advisor.pcx
 #RACE_DUTCH
 art\leaderheads\x2_William victory neutral.pcx
 art\advisors\x2_William advisor.pcx
 #RACE_PORTUGAL
-art\leaderheads\x2_Henry victory neutral.pcx
+art\leaderheads\sparta.pcx
 art\advisors\x2_Henry advisor.pcx
 #RACE_INCANS
 art\leaderheads\x2_Pachacuti victory neutral.pcx
@@ -695,8 +695,10 @@ art\civilopedia\icons\races\egyptsmall.pcx
 art\civilopedia\icons\races\greecelarge.pcx
 art\civilopedia\icons\races\greecesmall.pcx
 #ICON_RACE_BABYLON
-art\civilopedia\icons\races\babylonianlarge.pcx
-art\civilopedia\icons\races\babyloniansmall.pcx
+art\civilopedia\icons\races\vatican.pcx
+art\civilopedia\icons\races\vatican_small.pcx
+art\leaderheads\vatican.pcx
+art\advisors\HA_all.pcx
 #ICON_RACE_GERMANS
 art\civilopedia\icons\races\germanslarge.pcx
 art\civilopedia\icons\races\germanssmall.pcx
@@ -725,8 +727,10 @@ art\civilopedia\icons\races\persianssmall.pcx
 art\civilopedia\icons\races\azteclarge.pcx
 art\civilopedia\icons\races\aztecsmall.pcx
 #ICON_RACE_ZULU
-art\civilopedia\icons\races\zulularge.pcx
-art\civilopedia\icons\races\zulusmall.pcx
+art\civilopedia\icons\races\singapore.pcx
+art\civilopedia\icons\races\singapore_small.pcx
+art\leaderheads\singapore.pcx
+art\advisors\ZU_all.pcx
 #ICON_RACE_IROQUOIS
 art\civilopedia\icons\races\iroquoislarge.pcx
 art\civilopedia\icons\races\iroquoissmall.pcx
@@ -758,17 +762,23 @@ art\civilopedia\icons\races\x_Hannibal civpedia sm.pcx
 art\civilopedia\icons\races\x_Wang Kon civpedia lg.pcx
 art\civilopedia\icons\races\x_Wang Kon civpedia sm.pcx
 #ICON_RACE_SUMERIA
-art\civilopedia\icons\races\x2_Gilgamesh civpedia lg.pcx
-art\civilopedia\icons\races\x2_Gilgamesh civpedia sm.pcx
+art\civilopedia\icons\races\venice.pcx
+art\civilopedia\icons\races\venice_small.pcx
+art\leaderheads\venice.pcx
+art\advisors\x2_Gilgamesh advisor.pcx
 #ICON_RACE_HATTI
-art\civilopedia\icons\races\x2_Mursilis civpedia lg.pcx
-art\civilopedia\icons\races\x2_Mursilis civpedia sm.pcx
+art\civilopedia\icons\races\dubai.pcx
+art\civilopedia\icons\races\dubai_small.pcx
+art\leaderheads\dubai.pcx
+art\advisors\x2_Mursilis advisor.pcx
 #ICON_RACE_DUTCH
 art\civilopedia\icons\races\x2_William civpedia lg.pcx
 art\civilopedia\icons\races\x2_William civpedia sm.pcx
 #ICON_RACE_PORTUGAL
-art\civilopedia\icons\races\x2_Henry civpedia lg.pcx
-art\civilopedia\icons\races\x2_Henry civpedia sm.pcx
+art\civilopedia\icons\races\sparta.pcx
+art\civilopedia\icons\races\sparta_small.pcx
+art\leaderheads\sparta.pcx
+art\advisors\x2_Henry advisor.pcx
 #ICON_RACE_INCANS
 art\civilopedia\icons\races\x2_Pachacuti civpedia lg.pcx
 art\civilopedia\icons\races\x2_Pachacuti civpedia sm.pcx
@@ -1970,10 +1980,108 @@ art\civilopedia\icons\buildings\knightstemplarsmall.pcx
 #ICON_BLDG_STATUE_OF_LIBERTY
 SINGLE
 32
-Art\Civilopedia\Icons\Buildings\statue_of_liberty.pcx
+Art\Civilopedia\Icons\Buildings\statue_of_liberty_lg.pcx
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_sm.pcx
 #WON_SPLASH_BLDG_STATUE_OF_LIBERTY
 Art\Wonder Splash\statue_of_liberty_splash.pcx
+#ICON_PRTO_DRONE
+art\civilopedia\icons\units\drone.pcx
+art\civilopedia\icons\units\drone_small.pcx
+#ANIMNAME_PRTO_DRONE
+GunDrone
+#ICON_PRTO_SPARTAN_PHALANX
+Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Large.pcx
+Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Small.pcx
+#ANIMNAME_PRTO_SPARTAN_PHALANX
+SpartanPhalanx
+#TECH_ADVANCED_SEMICONDUCTORS
+Art\tech chooser\Icons\semiconductor_sm.pcx
+#TECH_ADVANCED_SEMICONDUCTORS_LARGE
+Art\tech chooser\Icons\semiconductor_lg.pcx
+#TECH_AGI
+Art\tech chooser\Icons\agi_small.pcx
+#TECH_AGI_LARGE
+Art\tech chooser\Icons\agi.pcx
+#TECH_HIGHDENSITY_BATTERIES
+Art\tech chooser\Icons\highdensity_energy_storage_small.pcx
+#TECH_HIGHDENSITY_BATTERIES_LARGE
+Art\tech chooser\Icons\highdensity_energy_storage.pcx
+#TECH_DRONES
+Art\tech chooser\Icons\drone_warfare_small.pcx
+#TECH_DRONES_LARGE
+Art\tech chooser\Icons\drone_warfare.pcx
+#ICON_GOOD_FOSSILS
+art\civilopedia\icons\resources\fossils.pcx
+art\civilopedia\icons\resources\fossils_small.pcx
+#ICON_GOOD_FILMS
+art\civilopedia\icons\resources\films.pcx
+art\civilopedia\icons\resources\films_small.pcx
+#ICON_GOOD_MUSIC
+art\civilopedia\icons\resources\music.pcx
+art\civilopedia\icons\resources\music_small.pcx
+#ICON_GOOD_NITER
+art\civilopedia\icons\resources\niter.pcx
+art\civilopedia\icons\resources\niter_small.pcx
+#ICON_GOOD_SILICON_WAFERS
+art\civilopedia\icons\resources\silicon_wafers.pcx
+art\civilopedia\icons\resources\silicon_wafers_small.pcx
+#ICON_GOOD_GLASSWARE
+art\civilopedia\icons\resources\murano_glass.pcx
+art\civilopedia\icons\resources\murano_glass_small.pcx
+#ICON_GOOD_RELIGIOUS_RELICS
+art\civilopedia\icons\resources\religious_relics.pcx
+art\civilopedia\icons\resources\religious_relics_small.pcx
+#ICON_GOOD_MERCENARIES
+art\civilopedia\icons\resources\spartan.pcx
+art\civilopedia\icons\resources\spartan_small.pcx
+#ICON_GOOD_DESIGNER_GOODS
+art\civilopedia\icons\resources\designer_goods.pcx
+art\civilopedia\icons\resources\designer_goods_small.pcx
+#TECH_SPARTA
+Art\tech chooser\Icons\sparta_small.pcx
+#TECH_SPARTA_LARGE
+Art\tech chooser\Icons\sparta.pcx
+#TECH_VENICE
+Art\tech chooser\Icons\venice_small.pcx
+#TECH_VENICE_LARGE
+Art\tech chooser\Icons\venice.pcx
+#TECH_VATICAN
+Art\tech chooser\Icons\vatican_small.pcx
+#TECH_VATICAN_LARGE
+Art\tech chooser\Icons\vatican.pcx
+#TECH_DUBAI
+Art\tech chooser\Icons\dubai_small.pcx
+#TECH_DUBAI_LARGE
+Art\tech chooser\Icons\dubai.pcx
+#TECH_SINGAPORE
+Art\tech chooser\Icons\singapore_small.pcx
+#TECH_SINGAPORE_LARGE
+Art\tech chooser\Icons\singapore.pcx
+#ICON_BLDG_SPARTAN_CAMP
+SINGLE
+1
+Art\Civilopedia\Icons\Buildings\spartan_camp.pcx
+Art\Civilopedia\Icons\Buildings\spartan_camp_small.pcx
+#ICON_BLDG_GLASSWORKS
+SINGLE
+1
+Art\Civilopedia\Icons\Buildings\glassworks.pcx
+Art\Civilopedia\Icons\Buildings\glassworks_small.pcx
+#ICON_BLDG_BASILICA
+SINGLE
+1
+Art\Civilopedia\Icons\Buildings\basilica.pcx
+Art\Civilopedia\Icons\Buildings\basilica_small.pcx
+#ICON_BLDG_SINGAPORE_WAFER
+SINGLE
+1
+Art\Civilopedia\Icons\Buildings\wafers.pcx
+Art\Civilopedia\Icons\Buildings\wafers_small.pcx
+#ICON_BLDG_DUBAI_DESIGNER
+SINGLE
+1
+Art\Civilopedia\Icons\Buildings\designer.pcx
+Art\Civilopedia\Icons\Buildings\designer_small.pcx
 #END CIVILOPEDIA ART
 
 ######################################################################
