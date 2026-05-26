@@ -69,6 +69,17 @@
 [=========================================================================]
 
 #District
+allow_multiple    = 1
+name              = "Solar Farm"
+display_name      = "Solar Farm"
+tooltip           = "Build Solar Farm"
+img_paths         = "SolarFarm.PCX"
+type              = tile-improvement
+ai_build_strategy = tile-improvement
+advance_prereqs   = "Ecology"
+buildable_on      = desert, plains, grassland, tundra
+
+#District
 buildable_on          = desert,plains,grassland,tundra,floodplain,hill
 allow_multiple        = 1
 name                  = "Technology Park"
@@ -210,7 +221,6 @@ btn_tile_sheet_column = 6
 vary_img_by_era       = 1
 vary_img_by_culture   = 0
 advance_prereqs       = "Computers"
-dependent_improvs     = "Research Lab"
 buildable_on          = desert,plains,grassland,tundra,floodplain,hill
 defense_bonus_percent = 0
 allow_multiple        = 1
@@ -221,6 +231,7 @@ gold_bonus            = 0
 shield_bonus          = 0
 happiness_bonus       = -2
 resource_prereqs      = "Silicon Wafers"
+dependent_improvs     = "AI Lab"
 
 #District
 name                  = "Offshore Extraction Zone"
@@ -284,9 +295,6 @@ shield_bonus          = 0
 happiness_bonus       = 2
 
 #District
-[========================================================================]
-[=========================SPECIAL DISTRICTS==============================]
-[========================================================================]
 name                  = "Water Park"
 tooltip               = "Build Water Park"
 img_paths             = "WaterPark.pcx"
@@ -307,6 +315,32 @@ gold_bonus            = 4
 shield_bonus          = -2
 happiness_bonus       = 2
 
+#District
+name                   = Wind Farm
+tooltip                = Build Wind Farm
+img_paths              = WindFarm.pcx
+animation              = ini=Districts/WindFarm/WindFarm.INI; hours=7-17
+animation              = ini=Districts/WindFarm/WindFarm_night.INI; hours=18-6
+btn_tile_sheet_row     = 1
+btn_tile_sheet_column  = 10
+vary_img_by_era        = 0
+vary_img_by_culture    = 0
+advance_prereqs        = Ecology
+dependent_improvs      = 
+buildable_on           = coast,desert,plains,grassland,tundra,hills
+defense_bonus_percent  = 0
+allow_multiple         = 0
+culture_bonus          = 0
+science_bonus          = 0
+food_bonus             = 0
+gold_bonus             = 0
+shield_bonus           = 3,hills:1
+happiness_bonus        = 0
+
+
+[========================================================================]
+[=========================SPECIAL DISTRICTS==============================]
+[========================================================================]
 #District
 name                  = "Neighborhood"
 tooltip               = "Build Neighborhood"

@@ -1,2 +1,0 @@
-; Managed by Civ 3 | C3X Modern Configuration Manager
-; Mode: scenario
