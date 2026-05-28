@@ -1946,7 +1946,7 @@ art\civilopedia\icons\buildings\knightstemplarsmall.pcx
 #HomelessIcons
 #ICON_BLDG_STATUE_OF_LIBERTY
 SINGLE
-32
+82
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_lg.pcx
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_sm.pcx
 #WON_SPLASH_BLDG_STATUE_OF_LIBERTY
@@ -2076,49 +2076,49 @@ Art\Civilopedia\Icons\Buildings\broadway.pcx
 Art\Civilopedia\Icons\Buildings\broadway_small.pcx
 #ICON_BLDG_ITSUKUSHIMA
 SINGLE
-32
+88
 Art\Civilopedia\Icons\Buildings\itsukushima.pcx
 Art\Civilopedia\Icons\Buildings\itsukushima_small.pcx
 #WON_SPLASH_BLDG_ITSUKUSHIMA
 Art\Wonder Splash\itsukushima_splash.pcx
 #ICON_BLDG_KINKAKUJI
 SINGLE
-32
+84
 Art\Civilopedia\Icons\Buildings\kinkakuji.pcx
 Art\Civilopedia\Icons\Buildings\kinkakuji_small.pcx
 #WON_SPLASH_BLDG_KINKAKUJI
 Art\Wonder Splash\kinkakuji_splash.pcx
 #ICON_BLDG_BIG_BEN
 SINGLE
-32
+87
 Art\Civilopedia\Icons\Buildings\big_ben.pcx
 Art\Civilopedia\Icons\Buildings\big_ben_small.pcx
 #WON_SPLASH_BLDG_BIG_BEN
 Art\Wonder Splash\big_ben_splash.pcx
 #ICON_BLDG_SILICON_VALLEY
 SINGLE
-32
+89
 Art\Civilopedia\Icons\Buildings\silicon_valley.pcx
 Art\Civilopedia\Icons\Buildings\silicon_valley_small.pcx
 #WON_SPLASH_BLDG_SILICON_VALLEY
 Art\Wonder Splash\silicon_valley_splash.pcx
 #ICON_BLDG_HAGIA_SOPHIA
 SINGLE
-32
+83
 Art\Civilopedia\Icons\Buildings\hagia_sophia.pcx
 Art\Civilopedia\Icons\Buildings\hagia_sophia_small.pcx
 #WON_SPLASH_BLDG_HAGIA_SOPHIA
 Art\Wonder Splash\hagia_sophai_splash.pcx
 #ICON_BLDG_TAJ_MAHAL
 SINGLE
-32
+90
 Art\Civilopedia\Icons\Buildings\taj_mahal.pcx
 Art\Civilopedia\Icons\Buildings\taj_mahal_small.pcx
 #WON_SPLASH_BLDG_TAJ_MAHAL
 Art\Wonder Splash\taj_mahal_splash.pcx
 #ICON_BLDG_SYDNEY_OPERA_HOUSE
 SINGLE
-32
+85
 Art\Civilopedia\Icons\Buildings\opera_house.pcx
 Art\Civilopedia\Icons\Buildings\opera_house_small.pcx
 #WON_SPLASH_BLDG_SYDNEY_OPERA_HOUSE
