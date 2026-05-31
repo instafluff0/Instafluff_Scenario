@@ -78,6 +78,7 @@ type              = tile-improvement
 ai_build_strategy = tile-improvement
 advance_prereqs   = "Ecology"
 buildable_on      = desert, plains, grassland, tundra
+vary_img_by_era   = 1
 
 #District
 buildable_on          = desert,plains,grassland,tundra,floodplain,hill
@@ -90,6 +91,7 @@ dependent_improvs     = "Semiconductor Foundry"
 advance_prereqs       = "Advanced Semiconductors"
 btn_tile_sheet_row    = 1
 btn_tile_sheet_column = 6
+vary_img_by_era       = 1
 
 #District
 name                   = "Encampment"
@@ -225,7 +227,7 @@ buildable_on          = desert,plains,grassland,tundra,floodplain,hill
 defense_bonus_percent = 0
 allow_multiple        = 1
 culture_bonus         = 0
-science_bonus         = 4, "Research Lab": 4
+science_bonus         = 4, "AI Lab": 4
 food_bonus            = 0
 gold_bonus            = 0
 shield_bonus          = 0
