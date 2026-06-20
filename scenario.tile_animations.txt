@@ -174,10 +174,9 @@ name                    = Fish
 ini_path                = Resources\Fish\Fish.INI
 type                    = resource
 resource_type           = Fish
-direction               = southeast
 frame_time_seconds      = 0.13
-y_offset                = -20
-x_offset                = -15
+y_offset                = -14
+x_offset                = -2
 
 #Animation
 name                    = Crab
@@ -185,6 +184,13 @@ ini_path                = Resources\Crab\Crab.INI
 type                    = resource
 resource_type           = Crabs
 frame_time_seconds      = 0.13
+
+#Animation
+name                    = Furs
+ini_path                = Resources\Fox\Fox.ini
+type                    = resource
+resource_type           = Furs
+direction               = southwest
 
 #Animation
 name     = DestructInitial
