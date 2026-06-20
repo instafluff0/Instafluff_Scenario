@@ -75,8 +75,8 @@ art\advisors\x_Wang Kon advisor.pcx
 art\leaderheads\venice.pcx
 art\advisors\venice.pcx
 #RACE_HATTI
-art\leaderheads\dubai.pcx
-art\advisors\dubai.pcx
+art\leaderheads\nassau.pcx
+art\advisors\nassau.pcx
 #RACE_DUTCH
 art\leaderheads\x2_William victory neutral.pcx
 art\advisors\x2_William advisor.pcx
@@ -697,6 +697,7 @@ art\civilopedia\icons\races\greecesmall.pcx
 #ICON_RACE_BABYLON
 art\civilopedia\icons\races\vatican.pcx
 art\civilopedia\icons\races\vatican_small.pcx
+Art\Civilopedia\Icons\Races\vatican_icon3.pcx
 #ICON_RACE_GERMANS
 art\civilopedia\icons\races\germanslarge.pcx
 art\civilopedia\icons\races\germanssmall.pcx
@@ -761,8 +762,10 @@ art\civilopedia\icons\races\x_Wang Kon civpedia sm.pcx
 art\civilopedia\icons\races\venice.pcx
 art\civilopedia\icons\races\venice_small.pcx
 #ICON_RACE_HATTI
-art\civilopedia\icons\races\dubai.pcx
-art\civilopedia\icons\races\dubai_small.pcx
+art\civilopedia\icons\races\nassau.pcx
+art\civilopedia\icons\races\nassau_small.pcx
+Art\Civilopedia\Icons\Races\nassau_icon3.pcx
+Art\Civilopedia\Icons\Races\nassau_icon4.pcx
 #ICON_RACE_DUTCH
 art\civilopedia\icons\races\x2_William civpedia lg.pcx
 art\civilopedia\icons\races\x2_William civpedia sm.pcx
@@ -1943,14 +1946,11 @@ SINGLE
 art\civilopedia\icons\buildings\knightstemplarlarge.pcx
 art\civilopedia\icons\buildings\knightstemplarsmall.pcx
 
-#HomelessIcons
 #ICON_BLDG_STATUE_OF_LIBERTY
 SINGLE
 82
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_lg.pcx
 Art\Civilopedia\Icons\Buildings\statue_of_liberty_sm.pcx
-#WON_SPLASH_BLDG_STATUE_OF_LIBERTY
-Art\Wonder Splash\statue_of_liberty_splash.pcx
 #ICON_PRTO_DRONE
 art\civilopedia\icons\units\drone.pcx
 art\civilopedia\icons\units\drone_small.pcx
@@ -2017,9 +2017,9 @@ Art\tech chooser\Icons\vatican_small.pcx
 #TECH_VATICAN_LARGE
 Art\tech chooser\Icons\vatican.pcx
 #TECH_DUBAI
-Art\tech chooser\Icons\dubai_small.pcx
+Art\tech chooser\Icons\nassau_small.pcx
 #TECH_DUBAI_LARGE
-Art\tech chooser\Icons\dubai.pcx
+Art\tech chooser\Icons\nassau.pcx
 #TECH_SINGAPORE
 Art\tech chooser\Icons\singapore_small.pcx
 #TECH_SINGAPORE_LARGE
@@ -2079,75 +2079,51 @@ SINGLE
 88
 Art\Civilopedia\Icons\Buildings\itsukushima.pcx
 Art\Civilopedia\Icons\Buildings\itsukushima_small.pcx
-#WON_SPLASH_BLDG_ITSUKUSHIMA
-Art\Wonder Splash\itsukushima_splash.pcx
 #ICON_BLDG_KINKAKUJI
 SINGLE
 84
 Art\Civilopedia\Icons\Buildings\kinkakuji.pcx
 Art\Civilopedia\Icons\Buildings\kinkakuji_small.pcx
-#WON_SPLASH_BLDG_KINKAKUJI
-Art\Wonder Splash\kinkakuji_splash.pcx
 #ICON_BLDG_BIG_BEN
 SINGLE
 87
 Art\Civilopedia\Icons\Buildings\big_ben.pcx
 Art\Civilopedia\Icons\Buildings\big_ben_small.pcx
-#WON_SPLASH_BLDG_BIG_BEN
-Art\Wonder Splash\big_ben_splash.pcx
 #ICON_BLDG_SILICON_VALLEY
 SINGLE
 89
 Art\Civilopedia\Icons\Buildings\silicon_valley.pcx
 Art\Civilopedia\Icons\Buildings\silicon_valley_small.pcx
-#WON_SPLASH_BLDG_SILICON_VALLEY
-Art\Wonder Splash\silicon_valley_splash.pcx
 #ICON_BLDG_HAGIA_SOPHIA
 SINGLE
 83
 Art\Civilopedia\Icons\Buildings\hagia_sophia.pcx
 Art\Civilopedia\Icons\Buildings\hagia_sophia_small.pcx
-#WON_SPLASH_BLDG_HAGIA_SOPHIA
-Art\Wonder Splash\hagia_sophai_splash.pcx
 #ICON_BLDG_TAJ_MAHAL
 SINGLE
 90
 Art\Civilopedia\Icons\Buildings\taj_mahal.pcx
 Art\Civilopedia\Icons\Buildings\taj_mahal_small.pcx
-#WON_SPLASH_BLDG_TAJ_MAHAL
-Art\Wonder Splash\taj_mahal_splash.pcx
 #ICON_BLDG_SYDNEY_OPERA_HOUSE
 SINGLE
 85
 Art\Civilopedia\Icons\Buildings\opera_house.pcx
 Art\Civilopedia\Icons\Buildings\opera_house_small.pcx
-#WON_SPLASH_BLDG_SYDNEY_OPERA_HOUSE
-Art\Wonder Splash\opera_house_splash.pcx
 #ICON_BLDG_TOKYO_TOWER
 SINGLE
 100
 Art\Civilopedia\Icons\Buildings\tokyo_tower.pcx
 Art\Civilopedia\Icons\Buildings\tokyo_tower_small.pcx
-#WON_SPLASH_BLDG_TOKYO_TOWER
-Art\Wonder Splash\tokyo_tower_splash.pcx
 #ICON_BLDG_EIFFEL_TOWER
 SINGLE
 99
 Art\Civilopedia\Icons\Buildings\eiffel_tower.pcx
 Art\Civilopedia\Icons\Buildings\eiffel_tower_small.pcx
-#WON_SPLASH_BLDG_EIFFEL_TOWER
-Art\Wonder Splash\eiffel_tower_splash.pcx
 #ICON_BLDG_ARSENAL
 SINGLE
 92
 Art\Civilopedia\Icons\Buildings\arsenal.pcx
 Art\Civilopedia\Icons\Buildings\arsenal_small.pcx
-#WON_SPLASH_BLDG_ARSENAL
-Art\Wonder Splash\arsenal_splash.pcx
-#WON_SPLASH_BLDG_HOLLYWOOD
-Art\Wonder Splash\hollywood_splash.pcx
-#WON_SPLASH_BLDG_BROADWAY
-Art\Wonder Splash\broadway_splash.pcx
 #ICON_BLDG_BARRACKS
 ERA
 1
@@ -2159,10 +2135,155 @@ art\civilopedia\icons\buildings\barracksancsmall.pcx
 art\civilopedia\icons\buildings\barracksrensmall.pcx
 art\civilopedia\icons\buildings\barracksindmodsmall.pcx
 art\civilopedia\icons\buildings\barracksindmodsmall.pcx
-#WON_SPLASH_BLDG_MUSEUM_NATURAL_HIST
-Art\Wonder Splash\museum_natural_history_splash.pcx
-#WON_SPLASH_BLDG_SUPERINTELLIGENCE_INST
-Art\Wonder Splash\superintelligence_inst_splash.pcx
+#TECH_AUTONOMOUS_WAR
+Art\tech chooser\Icons\autonomous_war_small.pcx
+#TECH_AUTONOMOUS_WAR_LARGE
+Art\tech chooser\Icons\autonomous_war.pcx
+#TECH_TRANSORBITAL_PROJECTION
+Art\tech chooser\Icons\transorbital_projection_small.pcx
+#TECH_TRANSORBITAL_PROJECTION_LARGE
+Art\tech chooser\Icons\transorbital_projection.pcx
+#TECH_BATTLEFRAMES
+Art\tech chooser\Icons\battleframes_small.pcx
+#TECH_BATTLEFRAMES_LARGE
+Art\tech chooser\Icons\battleframes.pcx
+#TECH_GRAVIMETRIC_MANEUVER
+Art\tech chooser\Icons\gravimetric_maneuver_small.pcx
+#TECH_GRAVIMETRIC_MANEUVER_LARGE
+Art\tech chooser\Icons\gravimetric_maneuver.pcx
+#TECH_ORBITAL_ENGINEERING
+Art\tech chooser\Icons\orbital_engineering_small.pcx
+#TECH_ORBITAL_ENGINEERING_LARGE
+Art\tech chooser\Icons\orbital_engineering.pcx
+#TECH_SILKSTEEL_ALLOYS
+Art\tech chooser\Icons\silksteel_alloys_small.pcx
+#TECH_SILKSTEEL_ALLOYS_LARGE
+Art\tech chooser\Icons\silksteel_alloys.pcx
+#TECH_NEURAL_INTERFACES
+Art\tech chooser\Icons\neural_interfaces_small.pcx
+#TECH_NEURAL_INTERFACES_LARGE
+Art\tech chooser\Icons\neural_interfaces.pcx
+#ICON_PRTO_AUGMENTED_INFANTRY
+art\civilopedia\icons\units\CySoL.pcx
+art\civilopedia\icons\units\CySoS.pcx
+#ANIMNAME_PRTO_AUGMENTED_INFANTRY
+Battlesuit
+#ICON_PRTO_PHOTON_WAVE_INFANTRY
+art\civilopedia\icons\units\BGl.pcx
+art\civilopedia\icons\units\BGs.pcx
+#ANIMNAME_PRTO_PHOTON_WAVE_INFANTRY
+Beam Gunner
+#ICON_PRTO_HOVER_TANK
+art\civilopedia\icons\units\GAL.pcx
+art\civilopedia\icons\units\GAS.pcx
+#ANIMNAME_PRTO_HOVER_TANK
+Gravity Armor
+#ICON_PRTO_MECH
+art\civilopedia\icons\units\mech.pcx
+art\civilopedia\icons\units\mech_small.pcx
+#ANIMNAME_PRTO_MECH
+OmegaDrone
+#ICON_PRTO_TRANSORBITAL_CARRIER
+art\civilopedia\icons\units\orbital_carrier.pcx
+art\civilopedia\icons\units\orbital_carrier_small.pcx
+#ANIMNAME_PRTO_TRANSORBITAL_CARRIER
+Viscount
+#ICON_PRTO_AUTONOMOUS_MECH
+art\civilopedia\icons\units\auto_mech.pcx
+art\civilopedia\icons\units\auto_mech_small.pcx
+#ANIMNAME_PRTO_AUTONOMOUS_MECH
+WarRAV
+#ICON_RACE_CITY_OF_SPARTA
+art\civilopedia\icons\races\sparta.pcx
+art\civilopedia\icons\races\sparta_small.pcx
+#RACE_CITY_OF_SPARTA
+art\leaderheads\sparta.pcx
+art\advisors\blank.pcx
+#ICON_RACE_CITY_OF_NASSAU
+art\civilopedia\icons\races\nassau.pcx
+art\civilopedia\icons\races\nassau_small.pcx
+Art\Civilopedia\Icons\Races\nassau_icon3.pcx
+Art\Civilopedia\Icons\Races\nassau_icon4.pcx
+#RACE_CITY_OF_NASSAU
+art\leaderheads\nassau.pcx
+art\advisors\nassau.pcx
+#ICON_RACE_CITY_OF_VENICE
+art\civilopedia\icons\races\venice.pcx
+art\civilopedia\icons\races\venice_small.pcx
+#RACE_CITY_OF_VENICE
+art\leaderheads\venice.pcx
+art\advisors\venice.pcx
+#ICON_RACE_CITY_OF_SINGAPORE
+art\civilopedia\icons\races\singapore.pcx
+art\civilopedia\icons\races\singapore_small.pcx
+#RACE_CITY_OF_SINGAPORE
+art\leaderheads\singapore.pcx
+art\advisors\singapore.pcx
+#ICON_RACE_VATICAN_CITY
+art\civilopedia\icons\races\vatican.pcx
+art\civilopedia\icons\races\vatican_small.pcx
+Art\Civilopedia\Icons\Races\vatican_icon3.pcx
+#RACE_VATICAN_CITY
+art\leaderheads\vatican.pcx
+art\advisors\vatican.pcx
+#ICON_GOVT_ALGORITHMIC_GOVERNANCE
+Art\Civilopedia\Icons\Governments\algorithmic_governance.pcx
+Art\Civilopedia\Icons\Governments\algorithmic_governance_small.pcx
+#ICON_BLDG_SPACE_ELEVATOR
+SINGLE
+106
+Art\Civilopedia\Icons\Buildings\space_elevator.pcx
+Art\Civilopedia\Icons\Buildings\space_elevator_small.pcx
+#ICON_BLDG_CITYSTATE_CENTER
+ERA
+28
+art\civilopedia\icons\buildings\policestationindlarge.pcx
+art\civilopedia\icons\buildings\policestationindlarge.pcx
+art\civilopedia\icons\buildings\policestationindlarge.pcx
+art\civilopedia\icons\buildings\policestationmodlarge.pcx
+art\civilopedia\icons\buildings\policestationindsmall.pcx
+art\civilopedia\icons\buildings\policestationindsmall.pcx
+art\civilopedia\icons\buildings\policestationindsmall.pcx
+art\civilopedia\icons\buildings\policestationmodsmall.pcx
+#ICON_GOOD_HARDWOOD
+art\civilopedia\icons\resources\Hardwood-large.pcx
+art\civilopedia\icons\resources\Hardwood-small.pcx
+#ICON_GOOD_COPPER
+art\civilopedia\icons\resources\Copper-large.pcx
+art\civilopedia\icons\resources\Copper-small.pcx
+#ICON_GOOD_STONE
+art\civilopedia\icons\resources\Stone-large.pcx
+art\civilopedia\icons\resources\Stone-small.pcx
+#ICON_PRTO_PHALANX
+art\civilopedia\icons\units\HeavySpearman-large.pcx
+art\civilopedia\icons\units\HeavySpearman-small.pcx
+#ANIMNAME_PRTO_PHALANX
+Phalanx
+#ICON_GOOD_TITANIUM
+Art\Civilopedia\Icons\Resources\titanium.pcx
+Art\Civilopedia\Icons\Resources\titanium_small.pcx
+#ICON_GOOD_LITHIUM
+Art\Civilopedia\Icons\Resources\lithium.pcx
+Art\Civilopedia\Icons\Resources\lithium_small.pcx
+#ICON_GOOD_HELIUM3
+Art\Civilopedia\Icons\Resources\helium3.pcx
+Art\Civilopedia\Icons\Resources\helium3_small.pcx
+#TECH_CITYSTATE
+Art\tech chooser\Icons\CITYSTATE_blank_small.pcx
+#TECH_CITYSTATE_LARGE
+Art\tech chooser\Icons\CITYSTATE_blank_large.pcx
+#ICON_GOOD_CRABS
+art\civilopedia\icons\resources\crab_resource.pcx
+art\civilopedia\icons\resources\crab_resource_small.pcx
+#HomelessIcons
+#
+art\civilopedia\icons\terrain\borderslarge.pcx
+#
+art\civilopedia\icons\terrain\borderssmall.pcx
+#
+art\civilopedia\icons\terrain\riverslarge.pcx
+#
+art\civilopedia\icons\terrain\riverssmall.pcx
 #END CIVILOPEDIA ART
 
 ######################################################################
@@ -2248,6 +2369,38 @@ art\wonder splash\Knights_Templar.pcx
 #WON_SPLASH_BLDG_Secret_Police_HQ
 art\wonder splash\forbidden city.pcx
 
+#WON_SPLASH_BLDG_STATUE_OF_LIBERTY
+Art\Wonder Splash\statue_of_liberty_splash.pcx
+#WON_SPLASH_BLDG_ITSUKUSHIMA
+Art\Wonder Splash\itsukushima_splash.pcx
+#WON_SPLASH_BLDG_KINKAKUJI
+Art\Wonder Splash\kinkakuji_splash.pcx
+#WON_SPLASH_BLDG_BIG_BEN
+Art\Wonder Splash\big_ben_splash.pcx
+#WON_SPLASH_BLDG_SILICON_VALLEY
+Art\Wonder Splash\silicon_valley_splash.pcx
+#WON_SPLASH_BLDG_HAGIA_SOPHIA
+Art\Wonder Splash\hagia_sophai_splash.pcx
+#WON_SPLASH_BLDG_TAJ_MAHAL
+Art\Wonder Splash\taj_mahal_splash.pcx
+#WON_SPLASH_BLDG_SYDNEY_OPERA_HOUSE
+Art\Wonder Splash\opera_house_splash.pcx
+#WON_SPLASH_BLDG_TOKYO_TOWER
+Art\Wonder Splash\tokyo_tower_splash.pcx
+#WON_SPLASH_BLDG_EIFFEL_TOWER
+Art\Wonder Splash\eiffel_tower_splash.pcx
+#WON_SPLASH_BLDG_ARSENAL
+Art\Wonder Splash\arsenal_splash.pcx
+#WON_SPLASH_BLDG_HOLLYWOOD
+Art\Wonder Splash\hollywood_splash.pcx
+#WON_SPLASH_BLDG_BROADWAY
+Art\Wonder Splash\broadway_splash.pcx
+#WON_SPLASH_BLDG_MUSEUM_NATURAL_HIST
+Art\Wonder Splash\museum_natural_history_splash.pcx
+#WON_SPLASH_BLDG_SUPERINTELLIGENCE_INST
+Art\Wonder Splash\superintelligence_inst_splash.pcx
+#WON_SPLASH_BLDG_SPACE_ELEVATOR
+Art\Wonder Splash\space_elevator_splash.pcx
 ################################################################
 #Era splash art begin
 #ERA_SPLASH_ERAS_Ancient_Times

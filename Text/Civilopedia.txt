@@ -452,10 +452,6 @@ Power Plants
 ^
 ^$LINK<Nuclear Plant=BLDG_Nuclear_Plant>
 ^Increases factory output by 100%.
-^
-^
-^$LINK<Solar Plant=BLDG_Solar_Plant>
-^Increases factory output by 50%.
 
 
 
@@ -5042,7 +5038,7 @@ see the Colossus. It remained where it was until 654 AD when the Muslims who plu
 #BLDG_Lighthouse
 ^
 ^
-^$LINK<Galleys=PRTO_Galleys> and other early naval units can move safely in and out of $LINK<sea=TERR_Sea> squares, and all naval unit movement rates are increased by one.
+^$LINK<Galleys=PRTO_Galley> and other early naval units can move safely in and out of $LINK<sea=TERR_Sea> squares, and all naval unit movement rates are increased by one.
 ^
 ^
 ^The [Great Lighthouse] may be built only in a coastal city.
@@ -7735,7 +7731,7 @@ animal life are made extinct every day as a result of the destruction of jungles
 Initially, naval units that leave the comfort of coastal areas risk loss in treacherous seas. But after the
 discovery of $LINK<astronomy=TECH_Astronomy>, this danger vanishes.
 ^
-^Coastal squares can contain $LINK<fish=GOOD_Fish>.
+^Coastal squares can contain $LINK<fish=GOOD_Fish> and $LINK<crabs=GOOD_Crabs> .
 #DESC_TERR_Coast
 ^
 ^
@@ -9787,9 +9783,6 @@ Luxury objects distinguished as much by reputation as craftsmanship, designer go
 ^[Tokyo Tower] increases the city's cultural influence, inspiring citizens with its modern ambition, technological confidence, and iconic skyline presence.
 ^
 ^
-^The Tokyo Tower may be built only in a city with access to $LINK<Radio=TECH_Radio>.
-^
-^
 ^This Great Wonder can become a $LINK<tourist attraction=GCON_Tourist_Attraction>.
 ^
 ^
@@ -9835,4 +9828,217 @@ Luxury objects distinguished as much by reputation as craftsmanship, designer go
 ^
 ^
 ^The Venetian Arsenal was the great state shipyard of the Republic of Venice and one of the most advanced industrial complexes of the premodern world. Established in the 12th century and continually expanded, it employed thousands of craftsmen, shipwrights, and laborers in a highly organized production system that astonished foreign visitors. At its height, the Arsenal could construct and outfit warships with extraordinary speed, using standardized parts and specialized workshops in a manner that foreshadowed the assembly line centuries later. This immense industrial engine helped sustain Venice’s dominance as a naval and commercial power across the Mediterranean, making the Arsenal one of history’s earliest examples of large-scale state-directed manufacturing.
+#DESC_TECH_Autonomous_War
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Transorbital_Projection
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Battleframes
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Gravimetric_Maneuver
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Orbital_Engineering
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Silksteel_Alloys
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#DESC_TECH_Neural_Interfaces
+^
+^
+^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
+conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
+direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
+heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
+born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
+pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
+the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
+in which there are a very small number of inbound targets to eliminate.
+#PRTO_Photon_Wave_Infantry
+^{Cydonian Unique Unit}
+^
+^{Suit:} Ceramic enhanced joint actuator body armor with rubidium power pack.
+^{Weapons:} [Lightyear] twin laser gun with Starburst ammo fed laser cannon.
+^[more...]
+#DESC_PRTO_Photon_Wave_Infantry
+^The Cydonian beam gun uses "starburst" technology to give it's user the option to either fire small arms or anti-tank laser rounds.  These laser rounds require a filament shell that is burned through to magnify the power of the laser beam almost 20 times, allowing it to pierce current armor technology.
+#PRTO_Hover_Tank
+#PRTO_Mech
+^[Power Armor unit animations by Blue-O, "attack A" edited by Nameless53.  "Attacks A" edited further by me]
+^
+^{Armor:}
+^{Weapons:}
+^{Top Speed:}
+#DESC_PRTO_Mech
+^Omega drones are the height of 27th century drone weaponry.
+^Their instinct and survival circuits are highly adapted, as are their actuator and limb controls.
+^They are built as purely reactional machines.  If they constitute any lifeform, it is the manifestation of the code that runs them, developed by Generals and Colonels far before they are sent into the battlefield.
+#PRTO_Transorbital_Carrier
+#DESC_PRTO_Transorbital_Carrier
+#PRTO_Autonomous_Mech
+#RACE_City_of_Venice
+^The Sumerians are $LINK<scientific and agricultural=GCON_Strengths>. They start the game with
+$LINK<Bronze Working=TECH_Bronze_Working> and $LINK<Pottery=TECH_Pottery> and build $LINK<Enkidu Warriors=PRTO_Enkidu_Warrior> instead of $LINK<warriors=PRTO_Warrior>. They also cannot build $LINK<Spearmen=PRTO_Spearman>.
+^
+^The Sumerians were, by historical consensus, the first human civilization. Originally from Asia Minor, they settled between the 
+Tigris and Euphrates (in modern-day Iraq) and began to farm and create simple goods. They relied on a sort of theocratic city-state government, 
+where each Sumerian city worshipped a separate god and had a separate governor, although all paid tribute to a single King in the capital, Ur.
+^    Sumeria's first and greatest accomplishment was the extent to which its people controlled their environment. They drained swamps, dug canals, 
+and generally bent the Euphrates region to their needs. They plowed the land for the first time in history, and took advantage of the rich, fertile 
+Mesopotamia soil. However, the area was low on other resources, so the Sumerian city-states were forced to import goods (particularly metals). Thus they 
+had to create a barter system of trade, as well as riverboats to more easily traverse the rivers that flanked their home. The invention of the plow led in 
+turn to the invention of the wheel, which permitted animals to pull carts as well as plow fields, and also to the creation of better pottery (with potters' 
+wheels).
+^    Since specialists were now able to create goods, and not every man had to farm, full-time priests could administer community affairs as well as the 
+temples in each city. To support them, in turn, people had time to devise picture signs and other very early alphabets, and being a full-time scribe became a 
+viable profession. The literature of Sumeria followed thereafter, culminating in the Epic of {Gilgamesh}, a lengthy poem dedicated to the mythic god-king whose 
+real and legendary exploits blend together. A companion of Gilgamesh, Enkidu, fought by Gilgamesh's side in many battles, and for him the {Enkidu Warriors} are 
+named: fierce fighters who sought to defend Sumerian lands from the other civilizations being born nearby.
+#DESC_RACE_City_of_Venice
+^
+^
+^    The literature of the Sumerians was not limited to stories, though.  In fact, one fact of modern life is still as Sumeria designed it.  The Sumerian priesthood 
+developed an early mathematics for commercial and religious purposes, and their number system was based around the number 60.  Thus time itself is divided into units of 
+60 seconds in a minute, 60 minutes in an hour, and so forth. The 24-hour day also originates with Sumerian calendars, as does the 360-degree circle.  So the fingerprints 
+of the world's most ancient civilization are still visible today.
+^    Sumeria's end came gradually, as barbarians saw what they had achieved and strove to emulate it.  About 1,500 years after the first Sumerian cities took form, 
+Amorite nomads settled near Ur in a place called Babylon. The resulting civilization grew into a mighty kingdom in its own right, and when Elamite invaders (from modern-day 
+Iran) sacked Ur, Babylon (which then still styled itself Akkad) saw its opportunity to eclipse its sire. They went in, dispersed the Elamites, and rebuilt Ur in their 
+own image. Sumerian culture and language persisted, but slowly assimilated into the new dominant empire. Sumeria disappeared completely as an autonomous culture by 1900 BC.
+#BLDG_CityState_Center
+^
+^
+^The [Police Station] combats $LINK<war weariness=GCON_War_Weariness> and decreases $LINK<corruption=GCON_Corruption> in its city.
+#DESC_BLDG_CityState_Center
+^
+^
+^The concept of a police force operating independently of the military goes back to the Praetorian Guard of ancient 
+Rome. In the Middle Ages, noblemen protected their estates by appointing constables to enforce the law and to arrest 
+and guard criminals, but the first modern, organized police force was the London Metropolitan Police. Established in 
+1829, this organization became the model for law enforcement organizations in the United States and many other 
+industrialized nations around the world. The presence of a police force serves to uphold the laws of society, and to 
+control civil unrest. A strong, visible police force strengthens confidence of the community by keeping the citizens
+safe.
+#GOOD_Hardwood
+^
+^[Hardwood] is a $LINK<Strategic Resource=GCON_ResourcesS> required to produce wooden ships and early airplanes.
+^
+^Hardwood appears when your civilization discovers $LINK<Engineering=TECH_Engineering>, and can be found in
+$LINK<forests=TERR_Forest> and $LINK<jungles=TERR_Jungle>.
+^
+^{Common resource:} 8 Hardwood per 8 civilizations on the map
+#DESC_GOOD_Hardwood
+^
+^New strategic resource added to the mod
+#GOOD_Copper
+^
+^[Copper] is a $LINK<Strategic Resource=GCON_ResourcesS> required to build early bronze weapons, wonders, and modern electricity.
+^
+^Copper deposits appear when your civilization discovers $LINK<Bronze Working=TECH_Bronze_Working>, and can be found in
+$LINK<mountains=TERR_Mountains> and $LINK<hills=TERR_Hills>.
+^
+^{Adequate resource:} 7 Copper per 8 civilizations on the map
+#DESC_GOOD_Copper
+^
+^New strategic resource added to the mod
+#GOOD_Stone
+^
+^[Stone] is a $LINK<Strategic Resource=GCON_ResourcesS> mostly required to build early town buildings and wonders.
+^
+^Stone quarries appear when your civilization discovers $LINK<Masonry=TECH_Masonry>, and can be found in
+$LINK<mountains=TERR_Mountains>, $LINK<hills=TERR_Hills> and $LINK<deserts=TERR_Desert>.
+^
+^{Abundant resource:} 9 Stone per 8 civilizations on the map
+#DESC_GOOD_Stone
+^
+^New strategic resource added to the mod
+#PRTO_Phalanx
+^
+^{PHALANX}
+^[Antiquity infantry]
+^
+^* Foot unit, defensive
+^* Foot infantry may pillage terrain improvements
+^
+^
+^
+^
+^
+^
+^
+^
+^
+^					     Support: 1 gold
+#DESC_PRTO_Phalanx
+^
+^New unit added to the mod
+^
+^Unit graphics: Late Seleucid Spearman  [by Balam-Agab]
+#GOOD_Crabs
+^
+^
+^[Crabs] are an $LINK<bonus resource=GCON_ResourcesB> that enhances city production. To get
+the bonus, the resource must be inside the city's $LINK<radius=GCON_Radius> and a citizen laborer must work the square. 
+^
+^Crabs are always visible in explored areas of the map and can be found in Coast, Sea and Fresh Water Lake squares and $LINK<marsh=TERR_Marsh>.
+#DESC_GOOD_Crabs
+^
+^
+^Prevailing winds, ocean currents, and deep-water trenches can often combine to produce conditions that are optimum for fishing. 
+In areas such as the Pacific coast of Central and South America, offshore winds push the warm surface waters out to deeper 
+waters. Underwater currents push cold, nutrient-rich water from deep below the surface back toward the coast. The high 
+concentration of nutrients in this colder water, caused by decomposition of organic matter at extreme depths, creates an ideal 
+environment for fish and other sea life. Civilizations with access to areas such as this can significantly increase their food supply 
+by establishing a thriving fishing industry.
 #EOF

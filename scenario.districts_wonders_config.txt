@@ -33,6 +33,16 @@
 ]
 
 #Wonder
+name                 = "Space Elevator"
+img_path             = "WondersCustomTall.pcx"
+custom_height        = 88
+img_row              = 1
+img_column           = 3
+img_construct_row    = 1
+img_construct_column = 2
+buildable_on         = desert, plains, grassland, tundra
+
+#Wonder
 name                 = "Broadway"
 img_path             = "WondersCustom.PCX"
 img_construct_row    = 6
@@ -51,18 +61,18 @@ img_construct_column = 0
 #Wonder
 name                 = "The Superintelligence Institute"
 img_path             = "WondersCustom.PCX"
-img_row              = 6
+img_row              = 3
 img_column           = 3
-img_construct_row    = 6
+img_construct_row    = 3
 img_construct_column = 2
 
 #Wonder
-img_construct_column = 0
-img_column           = 1
 name                 = "Hollywood"
-img_construct_row    = 8
-img_row              = 8
 img_path             = "WondersCustom.PCX"
+img_row              = 5
+img_column           = 1
+img_construct_row    = 5
+img_construct_column = 0
 
 #Wonder
 img_construct_column = 0
@@ -71,21 +81,6 @@ name                 = "Hagia Sophia"
 img_path             = "WondersCustom.PCX"
 img_construct_row    = 1
 img_row              = 1
-
-#Wonder
-name                         = "Venetian Arsenal"
-img_path                     = "WondersCustom.PCX"
-img_construct_row            = 5
-img_row                      = 5
-enable_img_alt_dir           = 1
-img_alt_dir_construct_row    = 5
-img_alt_dir_row              = 5
-img_construct_column         = 2
-img_column                   = 3
-img_alt_dir_construct_column = 0
-img_alt_dir_column           = 1
-buildable_on                 = coast
-buildable_by_civs            = "City of Venice"
 
 #Wonder
 img_construct_row    = 0
@@ -116,14 +111,19 @@ img_construct_row    = 4
 img_row              = 4
 
 #Wonder
-name                 = "Itsukushima Shrine"
-img_path             = "WondersCustom.PCX"
-img_construct_row    = 3
-img_construct_column = 2
-img_row              = 3
-img_column           = 3
-buildable_on         = coast, lake
-buildable_by_civs    = "Japan"
+name                         = "Itsukushima Shrine"
+img_path                     = "WondersCustom.PCX"
+buildable_on                 = coast, lake
+buildable_by_civs            = "Japan"
+enable_img_alt_dir           = 1
+img_row                      = 0
+img_column                   = 3
+img_construct_row            = 0
+img_construct_column         = 2
+img_alt_dir_row              = 0
+img_alt_dir_column           = 1
+img_alt_dir_construct_row    = 0
+img_alt_dir_construct_column = 0
 
 #Wonder
 name                 = "Heroic Epic"
@@ -156,10 +156,10 @@ buildable_by_civs    = "Japan"
 img_path             = "WondersCustom.PCX"
 name                 = "Taj Mahal"
 enable_img_alt_dir   = 0
-img_construct_row    = 4
-img_row              = 4
-img_column           = 3
-img_construct_column = 2
+img_row              = 1
+img_column           = 1
+img_construct_row    = 1
+img_construct_column = 0
 
 #Wonder
 img_construct_column = 0
@@ -177,7 +177,6 @@ img_row                      = 0
 img_column                   = 1
 name                         = "The Statue of Liberty"
 img_path                     = "WondersCustom.PCX"
-enable_img_alt_dir           = 1
 img_alt_dir_construct_row    = 0
 img_alt_dir_construct_column = 2
 img_alt_dir_row              = 0
@@ -185,6 +184,7 @@ img_alt_dir_column           = 3
 buildable_on                 = coast
 buildable_by_civs            = "America"
 buildable_by_civ_govs        = "Democracy"
+enable_img_alt_dir           = 0
 
 #Wonder
 name                 = "The Pyramids"
