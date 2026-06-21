@@ -2223,6 +2223,7 @@ art\advisors\singapore.pcx
 art\civilopedia\icons\races\vatican.pcx
 art\civilopedia\icons\races\vatican_small.pcx
 Art\Civilopedia\Icons\Races\vatican_icon3.pcx
+Art\Civilopedia\Icons\Races\vatican_icon4.pcx
 #RACE_VATICAN_CITY
 art\leaderheads\vatican.pcx
 art\advisors\vatican.pcx
