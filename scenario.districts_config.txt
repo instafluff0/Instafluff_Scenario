@@ -77,9 +77,9 @@ tooltip               = "Build Technology Park"
 img_paths             = "TechnologyPark.PCX"
 dependent_improvs     = "Semiconductor Foundry"
 advance_prereqs       = "Advanced Semiconductors"
-btn_tile_sheet_row    = 1
-btn_tile_sheet_column = 6
 vary_img_by_era       = 1
+btn_tile_sheet_row    = 2
+btn_tile_sheet_column = 8
 
 #District
 name                  = "Entertainment Complex"
@@ -213,7 +213,7 @@ name                  = "Solar Farm"
 tooltip               = "Build Solar Farm"
 btn_tile_sheet_row    = 0
 btn_tile_sheet_column = 11
-img_paths             = SolarFarm.PCX
+img_paths             = "SolarFarm.PCX"
 type                  = tile-improvement
 ai_build_strategy     = tile-improvement
 advance_prereqs       = "Ecology"
