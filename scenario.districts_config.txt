@@ -69,18 +69,6 @@
 [=========================================================================]
 
 #District
-allow_multiple    = 1
-name              = "Solar Farm"
-display_name      = "Solar Farm"
-tooltip           = "Build Solar Farm"
-img_paths         = "SolarFarm.PCX"
-type              = tile-improvement
-ai_build_strategy = tile-improvement
-advance_prereqs   = "Ecology"
-buildable_on      = desert, plains, grassland, tundra
-vary_img_by_era   = 1
-
-#District
 buildable_on          = desert,plains,grassland,tundra,floodplain,hill
 allow_multiple        = 1
 name                  = "Technology Park"
@@ -195,18 +183,18 @@ shield_bonus          = 2
 happiness_bonus       = 0
 
 #District
-[========================================================================]
-[=========================SPECIAL DISTRICTS==============================]
-[========================================================================]
+allow_multiple        = 1
 name                  = "Wind Farm"
 tooltip               = "Build Wind Farm"
 img_paths             = "WindFarm.pcx"
 animation             = ini=Districts/WindFarm/WindFarm.INI; hours=7-17
 animation             = ini=Districts/WindFarm/WindFarm_night.INI; hours=18-6
-btn_tile_sheet_row    = 1
+btn_tile_sheet_row    = 0
 btn_tile_sheet_column = 10
 vary_img_by_era       = 0
 vary_img_by_culture   = 0
+type                  = tile-improvement
+ai_build_strategy     = tile-improvement
 advance_prereqs       = "Ecology"
 dependent_improvs     = 
 buildable_on          = coast,desert,plains,grassland,tundra,hills
@@ -217,6 +205,27 @@ science_bonus         = 0
 food_bonus            = 0
 gold_bonus            = 0
 shield_bonus          = 3,hills:1
+happiness_bonus       = 0
+
+#District
+allow_multiple        = 1
+name                  = "Solar Farm"
+tooltip               = "Build Solar Farm"
+btn_tile_sheet_row    = 0
+btn_tile_sheet_column = 11
+img_paths             = SolarFarm.PCX
+type                  = tile-improvement
+ai_build_strategy     = tile-improvement
+advance_prereqs       = "Ecology"
+buildable_on          = desert, plains, grassland, tundra
+vary_img_by_era       = 1
+defense_bonus_percent = 0
+allow_multiple        = 0
+culture_bonus         = 0
+science_bonus         = 0
+food_bonus            = 0
+gold_bonus            = 0
+shield_bonus          = 4
 happiness_bonus       = 0
 
 #District
