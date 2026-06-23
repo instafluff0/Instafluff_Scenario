@@ -170,13 +170,13 @@ frame_time_seconds      = 0.17
 show_in_day_night_hours = 18-6
 
 #Animation
-name                    = Fish
-ini_path                = Resources\Fish\Fish.INI
-type                    = resource
-resource_type           = Fish
-frame_time_seconds      = 0.13
-y_offset                = -14
-x_offset                = -2
+name               = Fish
+ini_path           = Resources\Fish\Fish.INI
+type               = resource
+resource_type      = Fish
+frame_time_seconds = 0.13
+y_offset           = -14
+x_offset           = -2
 
 #Animation
 name                    = Crab
