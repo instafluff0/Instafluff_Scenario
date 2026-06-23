@@ -2276,6 +2276,12 @@ Art\tech chooser\Icons\CITYSTATE_blank_large.pcx
 #ICON_GOOD_CRABS
 art\civilopedia\icons\resources\crab_resource.pcx
 art\civilopedia\icons\resources\crab_resource_small.pcx
+#ICON_GOOD_NITER1
+Art\Civilopedia\Icons\Resources\niter.pcx
+Art\Civilopedia\Icons\Resources\niter_small.pcx
+#ICON_GOOD_RUM
+Art\Civilopedia\Icons\Resources\rum.pcx
+Art\Civilopedia\Icons\Resources\rum_small.pcx
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
