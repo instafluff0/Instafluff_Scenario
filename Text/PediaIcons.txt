@@ -1957,10 +1957,10 @@ art\civilopedia\icons\units\drone_small.pcx
 #ANIMNAME_PRTO_DRONE
 GunDrone
 #ICON_PRTO_SPARTAN_PHALANX
-Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Large.pcx
-Art\Units\SpartanPhalanx\pedia\MacedonPhalanx-Small.pcx
+art\civilopedia\icons\units\51hoplite(greekphalanx)large.pcx
+art\civilopedia\icons\units\51hoplite(greekphalanx)small.pcx
 #ANIMNAME_PRTO_SPARTAN_PHALANX
-SpartanPhalanx
+Hoplite
 #TECH_ADVANCED_SEMICONDUCTORS
 Art\tech chooser\Icons\semiconductor_sm.pcx
 #TECH_ADVANCED_SEMICONDUCTORS_LARGE
