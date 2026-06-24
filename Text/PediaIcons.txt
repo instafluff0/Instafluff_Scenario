@@ -2210,6 +2210,8 @@ art\advisors\nassau.pcx
 #ICON_RACE_CITY_OF_VENICE
 art\civilopedia\icons\races\venice.pcx
 art\civilopedia\icons\races\venice_small.pcx
+art\leaderheads\venice.pcx
+Art\Civilopedia\Icons\Races\venice_icon4.pcx
 #RACE_CITY_OF_VENICE
 art\leaderheads\venice.pcx
 art\advisors\venice.pcx
