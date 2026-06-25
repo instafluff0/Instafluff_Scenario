@@ -171,12 +171,7 @@ img_row              = 3
 buildable_by_civs    = "England"
 
 #Wonder
-img_construct_row            = 0
-img_construct_column         = 0
-img_row                      = 0
-img_column                   = 1
 name                         = "The Statue of Liberty"
-img_path                     = "WondersCustom.PCX"
 img_alt_dir_construct_row    = 0
 img_alt_dir_construct_column = 2
 img_alt_dir_row              = 0
@@ -184,7 +179,13 @@ img_alt_dir_column           = 3
 buildable_on                 = coast
 buildable_by_civs            = "America"
 buildable_by_civ_govs        = "Democracy"
+img_path                     = "WondersCustomTall.pcx"
+custom_height                = 88
+img_row                      = 1
+img_column                   = 1
 enable_img_alt_dir           = 0
+img_construct_row            = 1
+img_construct_column         = 0
 
 #Wonder
 name                 = "The Pyramids"
