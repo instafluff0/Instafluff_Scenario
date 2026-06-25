@@ -2287,6 +2287,15 @@ Art\Civilopedia\Icons\Resources\rum_small.pcx
 #ICON_GOOD_BISON
 art\civilopedia\icons\resources\bison.pcx
 art\civilopedia\icons\resources\bison_small.pcx
+#TECH_BLOCKERTECH
+Art\tech chooser\Icons\CITYSTATE_blank_small.pcx
+#TECH_BLOCKERTECH_LARGE
+Art\tech chooser\Icons\CITYSTATE_blank_large.pcx
+#ICON_BLDG_NEURAL_NEXUS
+SINGLE
+74
+art\civilopedia\icons\buildings\internet_large.pcx
+art\civilopedia\icons\buildings\internet_small.pcx
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
@@ -2413,6 +2422,8 @@ Art\Wonder Splash\museum_natural_history_splash.pcx
 Art\Wonder Splash\superintelligence_inst_splash.pcx
 #WON_SPLASH_BLDG_SPACE_ELEVATOR
 Art\Wonder Splash\space_elevator_splash.pcx
+#WON_SPLASH_BLDG_NEURAL_NEXUS
+art\wonder splash\internet.pcx
 ################################################################
 #Era splash art begin
 #ERA_SPLASH_ERAS_Ancient_Times
