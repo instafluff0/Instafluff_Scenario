@@ -2284,6 +2284,9 @@ Art\Civilopedia\Icons\Resources\niter_small.pcx
 #ICON_GOOD_RUM
 Art\Civilopedia\Icons\Resources\rum.pcx
 Art\Civilopedia\Icons\Resources\rum_small.pcx
+#ICON_GOOD_BISON
+art\civilopedia\icons\resources\bison.pcx
+art\civilopedia\icons\resources\bison_small.pcx
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
