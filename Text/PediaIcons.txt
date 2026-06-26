@@ -2047,8 +2047,8 @@ Art\Civilopedia\Icons\Buildings\wafers_small.pcx
 #ICON_BLDG_DUBAI_DESIGNER
 SINGLE
 104
-Art\Civilopedia\Icons\Buildings\designer.pcx
-Art\Civilopedia\Icons\Buildings\designer_small.pcx
+Art\Civilopedia\Icons\Buildings\nassau_letters.pcx
+Art\Civilopedia\Icons\Buildings\nassau_letters_small.pcx
 #ICON_BLDG_SEMICONDUCTOR_FOUNDRY
 SINGLE
 98

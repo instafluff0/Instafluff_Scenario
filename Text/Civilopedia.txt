@@ -9829,82 +9829,12 @@ Luxury objects distinguished as much by reputation as craftsmanship, designer go
 ^
 ^The Venetian Arsenal was the great state shipyard of the Republic of Venice and one of the most advanced industrial complexes of the premodern world. Established in the 12th century and continually expanded, it employed thousands of craftsmen, shipwrights, and laborers in a highly organized production system that astonished foreign visitors. At its height, the Arsenal could construct and outfit warships with extraordinary speed, using standardized parts and specialized workshops in a manner that foreshadowed the assembly line centuries later. This immense industrial engine helped sustain Venice’s dominance as a naval and commercial power across the Mediterranean, making the Arsenal one of history’s earliest examples of large-scale state-directed manufacturing.
 #DESC_TECH_Autonomous_War
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Transorbital_Projection
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Battleframes
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Gravimetric_Maneuver
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Orbital_Engineering
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Silksteel_Alloys
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #DESC_TECH_Neural_Interfaces
-^
-^
-^The threat of nuclear war became the backdrop of world politics after World War II. This terror sparked a fifty year long 
-conflict, the Cold War, between the two leading super powers, the Soviet Union and the United States. Although there was no 
-direct armed conflict between these two nations, the conflicts fought over their opposing ideologies often served to 
-heighten tensions and fears of a nuclear holocaust, from which nothing might have emerged. Integrated defense was a concept 
-born of the Cold War. Using satellite intelligence and laser designation, it was believed, a shield could be erected to 
-pinpoint and destroy all high altitude threats through lasers or missiles. Although no such defense shield was ever erected, 
-the theory behind a national anti missile shield still remains a viable option, especially against a "rogue state" scenario 
-in which there are a very small number of inbound targets to eliminate.
 #PRTO_Photon_Wave_Infantry
 ^{Cydonian Unique Unit}
 ^
@@ -9957,19 +9887,7 @@ Amorite nomads settled near Ur in a place called Babylon. The resulting civiliza
 Iran) sacked Ur, Babylon (which then still styled itself Akkad) saw its opportunity to eclipse its sire. They went in, dispersed the Elamites, and rebuilt Ur in their 
 own image. Sumerian culture and language persisted, but slowly assimilated into the new dominant empire. Sumeria disappeared completely as an autonomous culture by 1900 BC.
 #BLDG_CityState_Center
-^
-^
-^The [Police Station] combats $LINK<war weariness=GCON_War_Weariness> and decreases $LINK<corruption=GCON_Corruption> in its city.
 #DESC_BLDG_CityState_Center
-^
-^
-^The concept of a police force operating independently of the military goes back to the Praetorian Guard of ancient 
-Rome. In the Middle Ages, noblemen protected their estates by appointing constables to enforce the law and to arrest 
-and guard criminals, but the first modern, organized police force was the London Metropolitan Police. Established in 
-1829, this organization became the model for law enforcement organizations in the United States and many other 
-industrialized nations around the world. The presence of a police force serves to uphold the laws of society, and to 
-control civil unrest. A strong, visible police force strengthens confidence of the community by keeping the citizens
-safe.
 #GOOD_Hardwood
 ^
 ^[Hardwood] is a $LINK<Strategic Resource=GCON_ResourcesS> required to produce wooden ships and early airplanes.
@@ -10041,4 +9959,59 @@ waters. Underwater currents push cold, nutrient-rich water from deep below the s
 concentration of nutrients in this colder water, caused by decomposition of organic matter at extreme depths, creates an ideal 
 environment for fish and other sea life. Civilizations with access to areas such as this can significantly increase their food supply 
 by establishing a thriving fishing industry.
+#GOOD_Helium3
+One of the rarest useful substances known to civilization, helium-3 is a light, non-radioactive isotope of helium produced in only trace quantities on Earth. Most terrestrial supplies arise from the slow radioactive decay of heavier elements or are recovered in minute amounts during natural gas processing. Far greater reserves are believed to exist within the lunar regolith, where billions of years of bombardment by the solar wind have implanted helium-3 into the Moon's surface. Interest in the isotope grew during the late 20th century because of its potential use in advanced nuclear fusion reactors, where it could, in theory, produce enormous amounts of energy with far fewer radioactive byproducts than conventional fusion fuels. Although practical helium-3 fusion remains beyond mankind's present capabilities, the prospect of harvesting the Moon's vast deposits has made the isotope a symbol of humanity's future expansion into space and its search for abundant, clean energy.
+#GOOD_Lithium
+A soft, silvery-white metal and the lightest of all solid elements, lithium remained little more than a scientific curiosity for much of history. First identified in the early 19th century, it was initially used in specialized alloys, ceramics, and lubricants, where its unusual chemical properties proved valuable. Its true strategic importance emerged with the development of rechargeable lithium-ion batteries during the late 20th century. These compact, high-energy power sources transformed portable electronics before becoming essential for electric vehicles, renewable energy storage, drones, and countless other modern technologies. As the world's demand for energy storage accelerated, vast lithium deposits found in salt flats and hard-rock mines became increasingly valuable, making the metal one of the defining strategic resources of the Information Age and an indispensable foundation for the electrification of modern civilization.
+#GOOD_Titanium
+Although titanium is one of the most abundant metals in the Earth's crust, its remarkable properties remained largely untapped until modern metallurgy made its extraction economically practical. First identified in the late 18th century, the metal proved exceptionally difficult to refine because of its strong affinity for oxygen. Only during the mid-20th century did advances in industrial processing permit widespread production. Combining the strength of steel with nearly half its weight, while also resisting corrosion from seawater and many chemicals, titanium quickly became indispensable in aerospace engineering, naval construction, medicine, and advanced military equipment. Jet aircraft, spacecraft, submarines, and high-performance armor all benefit from its exceptional strength-to-weight ratio. Though costly to produce, titanium has become one of the defining structural materials of the modern technological age, enabling machines that would be impractical using conventional metals alone.
+#GOOD_Rum
+Distilled from sugarcane molasses or fresh sugarcane juice, rum emerged as one of the defining commodities of the Age of Sail. Although sugarcane cultivation dates back thousands of years in Asia, rum itself was first produced in the Caribbean during the 17th century, where European colonial plantations generated vast quantities of molasses as a byproduct of sugar production. The spirit quickly became popular among sailors, merchants, and settlers, valued for its long shelf life and ease of transport. Rum soon formed one corner of the infamous Atlantic Triangular Trade, exchanged alongside sugar, manufactured goods, and enslaved people in one of history's largest commercial networks. Many naval powers, most notably the British Royal Navy, issued daily rum rations to their sailors for centuries. Though today enjoyed primarily as a recreational beverage, rum remains closely associated with pirates, privateers, colonial empires, and the maritime traditions of the early modern world.
+#GOOD_Bison
+^
+^
+^[Bison] is a $LINK<bonus resource=GCON_ResourcesB> that enhances city production. To get
+the bonus, the resource must be inside the city's $LINK<radius=GCON_Radius> and a citizen laborer must work the square. 
+^
+^Game is always visible in explored areas of the map and can be found in $LINK<plains=TERR_Plains>.
+#DESC_GOOD_Bison
+^
+^
+^Once numbering in the tens of millions, the American bison was among the largest and most important land mammals of North America. Vast herds roamed the continent's grasslands, shaping entire ecosystems through their grazing and migration while providing food, clothing, shelter, and tools for many Indigenous peoples. European explorers were astonished by the immense herds that seemed to stretch to the horizon. During the 19th century, however, commercial hunting, expanding railroads, and westward settlement devastated the species, reducing its population to only a few hundred animals by the century's end. Conservation efforts by governments, ranchers, and naturalists narrowly prevented its extinction, allowing carefully managed herds to recover across protected parks and private lands.
+#TECH_Neural_Interfaces
+The development of high-bandwidth neural interfaces finally allowed direct communication between the human brain and digital systems. Early devices restored movement to paralyzed patients and enabled basic control of prosthetic limbs, but advances in machine learning and neuroscience soon permitted operators to command vehicles, drones, and computers almost as naturally as their own bodies. Neural interfaces dramatically reduced reaction times while blurring the distinction between human thought and machine action.
+#TECH_Silksteel_Alloys
+Seeking materials that combined exceptional strength with minimal weight, engineers developed a new generation of composite alloys inspired by the remarkable molecular structure of spider silk. By integrating advanced carbon nanostructures with lightweight metallic lattices, Silksteel alloys offered unprecedented toughness, flexibility, and impact resistance. They quickly became indispensable for advanced armor, aerospace construction, and next-generation military vehicles.
+#TECH_Orbital_Engineering
+As humanity's presence in space expanded, orbital construction evolved from assembling small satellites into building massive structures beyond Earth's atmosphere. Specialized manufacturing techniques, autonomous robotics, and modular assembly yards made it practical to construct habitats, shipyards, and industrial facilities directly in orbit, avoiding the enormous cost of launching fully assembled structures from the ground.
+#TECH_Gravimetric_Maneuver
+Although true anti-gravity remained beyond scientific reach, breakthroughs in gravimetric field manipulation made it possible to partially counteract a vehicle's weight. Combined with powerful vectored propulsion systems, these fields allowed armored vehicles to skim over terrain at high speed while ignoring many natural obstacles. Hover tanks equipped with gravimetric maneuver systems proved faster, more versatile, and far more difficult to stop than conventional tracked armor.
+#TECH_Battleframes
+Advances in compact power systems, lightweight materials, and artificial stabilization finally made practical the long-imagined combat walker. Known as Battleframes, these towering armored machines combined the mobility of infantry with the firepower of heavy vehicles, allowing human pilots to fight effectively in terrain inaccessible to tanks. Though expensive to construct, their adaptability made them invaluable in urban warfare, mountainous regions, and difficult environments.
+#TECH_Transorbital_Projection
+The ability to deploy military forces directly from orbit transformed strategic warfare. Reusable aerospace transports capable of operating both in space and within planetary atmospheres allowed troops and equipment to strike virtually anywhere on the globe within hours. National borders and traditional front lines became increasingly difficult to defend as military power could now descend from above with little warning.
+#TECH_Autonomous_War
+Artificial intelligence had long assisted military planning, but Autonomous War marked the point at which machines assumed primary responsibility for detecting threats, selecting targets, coordinating logistics, and conducting combat operations. Vast swarms of unmanned vehicles fought with superhuman speed and precision, while human commanders increasingly supervised rather than directed the battlefield. The resulting transformation rivaled the introduction of gunpowder or nuclear weapons, forever changing the nature of warfare.
+#BLDG_Spartan_Camp
+More than a simple military encampment, the Spartan Camp represents the disciplined martial traditions that made Sparta legendary throughout the ancient world. Within its orderly barracks and training grounds, generations of warriors learned endurance, obedience, and mastery of the phalanx. Though Spartan power eventually faded, its military ideals continued to inspire soldiers and commanders for centuries.
+#BLDG_Glassworks
+The glassmakers of Venice transformed an ordinary craft into one of Europe's most celebrated industries. Concentrated on the island of Murano, Venetian artisans perfected techniques for producing crystal-clear glass, intricate ornaments, mirrors, and decorative works prized by royalty and merchants alike. Their closely guarded secrets made Venetian glass synonymous with luxury throughout the Renaissance.
+#BLDG_Basilica
+Constructed over the traditional burial place of Saint Peter, St. Peter's Basilica stands among the greatest architectural achievements of the Renaissance. Designed by masters including Bramante, Michelangelo, and Bernini, its immense dome and lavish interior symbolize both the spiritual authority and artistic patronage of the Catholic Church. For centuries it has served as one of Christianity's most important pilgrimage sites.
+#BLDG_SINGAPORE_WAFER
+Built at one of the world's busiest commercial crossroads, the Singapore Wafer Foundry represents the union of advanced manufacturing, global trade, and precision engineering. Producing some of the world's most sophisticated semiconductor wafers, its facilities supply industries ranging from consumer electronics to artificial intelligence. The foundry stands as a testament to Singapore's rise as a center of high-technology innovation.
+#BLDG_Dubai_Designer
+During the turbulent age of piracy and colonial rivalry, governments frequently authorized privately owned vessels to wage war against enemy shipping through documents known as letters of marque. Nassau became one of the Caribbean's most infamous havens for privateers, adventurers, and former pirates seeking legal sanction for their exploits. The distinction between patriot and pirate often depended upon whose signature appeared upon the parchment.
+#BLDG_Semiconductor_Foundry
+Modern civilization depends upon tiny electronic circuits containing billions of microscopic transistors. Semiconductor foundries transform ultra-pure silicon into these extraordinarily complex devices through hundreds of carefully controlled manufacturing steps. Their products form the foundation of computers, communications, transportation, medicine, and countless other technologies, making them among the most strategically valuable industries in the world.
+#BLDG_Superintelligence_Inst
+Originally founded to develop artificial intelligence beyond human capability, the Superintelligence Institute rapidly became the world's foremost center for machine cognition. Its researchers created systems capable of scientific discovery, engineering, and strategic planning at unprecedented speed. Whether viewed as humanity's greatest achievement or its greatest gamble, the Institute ushered civilization into an era in which intelligence itself became an engineered resource.
+#BLDG_Museum_Natural_Hist
+Dedicated to preserving and studying the history of the natural world, museums of natural history safeguard everything from ancient fossils to rare minerals and living ecosystems. Their collections have advanced scientific understanding while inspiring generations of visitors to explore humanity's place within Earth's long evolutionary story. They remain among civilization's greatest institutions for education, discovery, and public knowledge.
+#BLDG_Hollywood
+From a quiet California suburb, Hollywood grew into the world's dominant center of motion picture production. Its studios pioneered filmmaking techniques, launched generations of actors and directors, and exported stories that reached audiences across every continent. More than a place, Hollywood became a symbol of cinematic ambition, imagination, and the extraordinary influence of mass entertainment.
+#BLDG_Broadway
+For over a century, Broadway has represented the pinnacle of live theatrical performance. Its stages introduced countless plays and musicals that shaped popular culture around the world, blending music, storytelling, dance, and spectacle into unforgettable productions. Success on Broadway became one of the highest honors in the performing arts, attracting audiences from every corner of the globe.
+#BLDG_Space_Elevator
+Long considered the ultimate engineering challenge, the Space Elevator replaced costly rocket launches with a permanent transportation link between Earth and orbit. Anchored at the equator and extending far beyond geostationary orbit, the immense structure allows cargo and passengers to ascend into space using electrically powered climbers. By dramatically reducing the cost of reaching orbit, it opened the Solar System to routine commerce, industry, and exploration.
 #EOF
