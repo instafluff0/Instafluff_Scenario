@@ -2329,6 +2329,11 @@ art\civilopedia\icons\units\HAl.pcx
 art\civilopedia\icons\units\HAs.pcx
 #ANIMNAME_PRTO_HOVER_ARTILLERY
 Hover Artillery
+#ICON_BLDG_SUPERINTELLIGENCE_NODE
+SINGLE
+94
+Art\Civilopedia\Icons\Buildings\superintelligence_node.pcx
+Art\Civilopedia\Icons\Buildings\superintelligence_node_small.pcx
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
