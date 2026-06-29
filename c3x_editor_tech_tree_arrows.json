@@ -821,6 +821,46 @@
           "y": 532
         }
       ]
+    },
+    "3:78->93": {
+      "points": [
+        {
+          "x": 586,
+          "y": 390
+        },
+        {
+          "x": 606,
+          "y": 390
+        },
+        {
+          "x": 606,
+          "y": 493
+        },
+        {
+          "x": 624,
+          "y": 493
+        }
+      ]
+    },
+    "3:85->95": {
+      "points": [
+        {
+          "x": 586,
+          "y": 448
+        },
+        {
+          "x": 650,
+          "y": 448
+        },
+        {
+          "x": 650,
+          "y": 358
+        },
+        {
+          "x": 803,
+          "y": 358
+        }
+      ]
     }
   },
   "routeSnapshots": {
@@ -2771,6 +2811,50 @@
           "y": 457
         }
       ]
+    },
+    "3:78->93": {
+      "points": [
+        {
+          "x": 533,
+          "y": 398
+        },
+        {
+          "x": 533,
+          "y": 416
+        },
+        {
+          "x": 606,
+          "y": 416
+        },
+        {
+          "x": 606,
+          "y": 493
+        },
+        {
+          "x": 624,
+          "y": 493
+        }
+      ]
+    },
+    "3:78->92": {
+      "points": [
+        {
+          "x": 586,
+          "y": 379
+        },
+        {
+          "x": 630,
+          "y": 379
+        },
+        {
+          "x": 630,
+          "y": 404
+        },
+        {
+          "x": 678,
+          "y": 404
+        }
+      ]
     }
   },
   "baselineRouteHints": {
@@ -3507,6 +3591,55 @@
       "targetSide": "left",
       "sourceOffset": 5,
       "targetOffset": 10,
+      "horizontalTolerance": 18
+    },
+    "3:93->96": {
+      "sourceSide": "right",
+      "targetSide": "bottom",
+      "sourceOffset": -5,
+      "targetOffset": -5,
+      "horizontalTolerance": 18
+    },
+    "3:78->96": {
+      "sourceSide": "right",
+      "targetSide": "left",
+      "sourceOffset": 0,
+      "targetOffset": -5,
+      "horizontalTolerance": 18
+    },
+    "3:92->96": {
+      "sourceSide": "top",
+      "targetSide": "bottom",
+      "sourceOffset": 0,
+      "targetOffset": 5,
+      "horizontalTolerance": 18
+    },
+    "3:85->96": {
+      "sourceSide": "top",
+      "targetSide": "left",
+      "sourceOffset": 0,
+      "targetOffset": 5,
+      "horizontalTolerance": 18
+    },
+    "3:96->98": {
+      "sourceSide": "right",
+      "targetSide": "top",
+      "sourceOffset": 0,
+      "targetOffset": 0,
+      "horizontalTolerance": 18
+    },
+    "3:78->93": {
+      "sourceSide": "bottom",
+      "targetSide": "left",
+      "sourceOffset": 0,
+      "targetOffset": -5,
+      "horizontalTolerance": 18
+    },
+    "3:78->92": {
+      "sourceSide": "right",
+      "targetSide": "left",
+      "sourceOffset": 15,
+      "targetOffset": -5,
       "horizontalTolerance": 18
     }
   }
