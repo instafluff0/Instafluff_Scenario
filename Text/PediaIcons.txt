@@ -1673,14 +1673,14 @@ art\civilopedia\icons\buildings\nukeplantsmall.pcx
 #ICON_BLDG_Offshore_Platform
 ERA
 26
-art\civilopedia\icons\buildings\offshoredrillingplatformlarge.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformlarge.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformlarge.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformlarge.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformsmall.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformsmall.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformsmall.pcx
-art\civilopedia\icons\buildings\offshoredrillingplatformsmall.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatformlar.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatf_large.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingpla_1_large.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatf_large.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatformsma.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatf_small.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingpla_1_small.pcx
+Art\Civilopedia\Icons\Buildings\offshoredrillingplatf_small.pcx
 #ICON_BLDG_Oracle
 SINGLE
 35
@@ -2058,12 +2058,12 @@ Art\Civilopedia\Icons\Buildings\semiconductor_foundry_small.pcx
 SINGLE
 94
 Art\Civilopedia\Icons\Buildings\superintelligence_institute.pcx
-Art\Civilopedia\Icons\Buildings\superintelligence_institute_small.pcx
+Art\Civilopedia\Icons\Buildings\superintelligence_ins_small.pcx
 #ICON_BLDG_MUSEUM_NATURAL_HIST
 SINGLE
 95
 Art\Civilopedia\Icons\Buildings\museum_of_natural_history.pcx
-Art\Civilopedia\Icons\Buildings\museum_of_natural_history_small.pcx
+Art\Civilopedia\Icons\Buildings\museum_of_natural_his_small.pcx
 #ICON_BLDG_HOLLYWOOD
 SINGLE
 92
@@ -2231,7 +2231,7 @@ art\leaderheads\vatican.pcx
 art\advisors\vatican.pcx
 #ICON_GOVT_ALGORITHMIC_GOVERNANCE
 Art\Civilopedia\Icons\Governments\algorithmic_governance.pcx
-Art\Civilopedia\Icons\Governments\algorithmic_governance_small.pcx
+Art\Civilopedia\Icons\Governments\algorithmic_governa_small.pcx
 #ICON_BLDG_SPACE_ELEVATOR
 SINGLE
 106
@@ -2296,6 +2296,24 @@ SINGLE
 74
 art\civilopedia\icons\buildings\internet_large.pcx
 art\civilopedia\icons\buildings\internet_small.pcx
+#ICON_GOVT_MONARCHY
+Art\tech chooser\Icons\46-Monarchy-large.pcx
+Art\tech chooser\Icons\46-Monarchy-small.pcx
+#ICON_GOVT_COMMUNISM
+Art\tech chooser\Icons\12-Communism-large-vp.pcx
+Art\tech chooser\Icons\12-Communism-small-vp.pcx
+#ICON_GOVT_REPUBLIC
+Art\tech chooser\Icons\77-republic-large.pcx
+Art\tech chooser\Icons\77-republic-small.pcx
+#ICON_GOVT_DEMOCRACY
+Art\tech chooser\Icons\16-democracy-large.pcx
+Art\tech chooser\Icons\16-democracy-small.pcx
+#ICON_GOVT_FASCISM
+Art\tech chooser\Icons\Fascism-large.pcx
+Art\tech chooser\Icons\Fascism-small.pcx
+#ICON_GOVT_FEUDALISM
+Art\tech chooser\Icons\Feudalism-large.pcx
+Art\tech chooser\Icons\Feudalism-small.pcx
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
