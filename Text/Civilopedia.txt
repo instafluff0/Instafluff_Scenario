@@ -4493,18 +4493,10 @@ is turned into raw materials for production, rather than contributing to the eve
 
 
 #BLDG_Manufacturing_Plant
-^
-^
-^A [Manufacturing Plant] increases $LINK<shield production=GCON_Shields> in its city by 50%. Note that 
-manufacturing plants produce $LINK<pollution=GCON_Pollution>. A Factory is required to build a Manufacturing Plant.
 #DESC_BLDG_Manufacturing_Plant
 ^
 ^
-^Manufacturing plants are large industrial complexes that produce goods of all types, although they are
-generally used to produce durable consumer goods such as automobiles. Essentially, a manufacturing plant
-is a large, sophisticated factory that employs specialization of labor, complex machinery, and assembly
-lines to gain efficiency and economies of scale. This combination of manpower and automation increases
-productivity and reduces production costs.
+^The Autonomous Assembly Plant marked the transition from automated manufacturing to fully self-directed industry. Staffed almost entirely by intelligent robots and AI-controlled production systems, these facilities operated continuously with minimal human oversight, optimizing every stage of design, fabrication, maintenance, and logistics. Machines repaired other machines, production lines reconfigured themselves to meet changing demands, and advanced quality-control systems reduced defects to unprecedented levels. By dramatically increasing industrial output while reducing labor requirements, Autonomous Assembly Plants became the foundation of the world's advanced manufacturing economy and a key driver of the autonomous age.
 
 
 #BLDG_Coal_Plant
@@ -9996,4 +9988,10 @@ Long considered the ultimate engineering challenge, the Space Elevator replaced 
 Rather than replacing soldiers with machines, Augmented Infantry enhanced human capabilities through advanced neural interfaces and constant AI assistance. Connected directly to battlefield networks, these troops received real-time tactical analysis, target identification, and coordinated support from autonomous drones and command systems. Combining human judgment with machine intelligence, Augmented Infantry remained among the most adaptable and resilient forces ever fielded.
 #GOVT_Algorithmic_Governance
 As artificial intelligence surpassed human capacity in managing complex systems, some societies entrusted increasing responsibility to algorithms rather than elected officials or bureaucracies. Vast computational models continuously analyzed economic activity, infrastructure, public health, and resource allocation, allowing policies to be adjusted with unprecedented speed and precision. Advocates praised Algorithmic Governance for its efficiency, consistency, and freedom from human corruption, while critics questioned whether even the most sophisticated machine could truly understand justice, liberty, or the human condition. Regardless of opinion, the rise of algorithmic governance fundamentally redefined the relationship between citizens, governments, and intelligence itself.
+#PRTO_Transorbital_Cruiser
+The Transorbital Cruiser represents the culmination of centuries of aerospace and naval engineering. Designed to operate equally well within a planet's atmosphere and the vacuum of space, these versatile warships can launch from the surface, achieve orbit without specialized facilities, and project military power across continents or between worlds. Equipped with advanced propulsion systems, aerospace weaponry, and extensive troop and vehicle capacity, Transorbital Cruisers blur the distinction between aircraft, spacecraft, and traditional naval vessels. Their ability to strike from orbit with little warning has made them the centerpiece of modern expeditionary warfare and the guardians of humanity's growing presence beyond Earth.
+#PRTO_Battle_Droid
+Freed from the limitations of fatigue, fear, and self-preservation, Battle Droids transformed warfare by replacing human soldiers with expendable autonomous machines. Early models performed simple patrol and security duties, but rapid advances in artificial intelligence, sensors, and mobility produced highly capable robotic infantry able to operate independently or as coordinated swarms. Easily mass-produced and deployed in overwhelming numbers, Battle Droids excelled in hazardous environments where human casualties would be unacceptable. Their widespread adoption forever altered military doctrine, shifting the burden of combat from soldiers to machines and ushering in the age of autonomous warfare.
+#PRTO_Hover_Artillery
+The marriage of gravimetric propulsion and long-range firepower produced one of the most mobile artillery systems ever devised. Freed from roads and difficult terrain, Hover Artillery could rapidly reposition across rivers, mountains, and broken landscapes while remaining beyond the reach of most ground forces. Advanced targeting networks and autonomous reconnaissance drones enabled devastating precision strikes far behind enemy lines. By combining exceptional mobility with heavy firepower, Hover Artillery made traditional static artillery emplacements increasingly obsolete and ensured that no battlefield remained beyond its reach.
 #EOF

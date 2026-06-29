@@ -2164,13 +2164,13 @@ Art\tech chooser\Icons\neural_interfaces_small.pcx
 #TECH_NEURAL_INTERFACES_LARGE
 Art\tech chooser\Icons\neural_interfaces.pcx
 #ICON_PRTO_AUGMENTED_INFANTRY
-art\civilopedia\icons\units\CySoL.pcx
-art\civilopedia\icons\units\CySoS.pcx
+art\civilopedia\icons\units\augmented_infantry2.pcx
+art\civilopedia\icons\units\augmented_infantry2_small.pcx
 #ANIMNAME_PRTO_AUGMENTED_INFANTRY
 Battlesuit
 #ICON_PRTO_PHOTON_WAVE_INFANTRY
-art\civilopedia\icons\units\BGl.pcx
-art\civilopedia\icons\units\BGs.pcx
+art\civilopedia\icons\units\photon_wave_infantry2.pcx
+art\civilopedia\icons\units\photon_wave_infantry2_small.pcx
 #ANIMNAME_PRTO_PHOTON_WAVE_INFANTRY
 Beam Gunner
 #ICON_PRTO_HOVER_TANK
@@ -2179,8 +2179,8 @@ art\civilopedia\icons\units\GAS.pcx
 #ANIMNAME_PRTO_HOVER_TANK
 Gravity Armor
 #ICON_PRTO_MECH
-art\civilopedia\icons\units\mech.pcx
-art\civilopedia\icons\units\mech_small.pcx
+art\civilopedia\icons\units\autonomous_mech2.pcx
+art\civilopedia\icons\units\autonomous_mech2_small.pcx
 #ANIMNAME_PRTO_MECH
 OmegaDrone
 #ICON_PRTO_TRANSORBITAL_CARRIER
@@ -2314,6 +2314,21 @@ Art\tech chooser\Icons\Fascism-small.pcx
 #ICON_GOVT_FEUDALISM
 Art\tech chooser\Icons\Feudalism-large.pcx
 Art\tech chooser\Icons\Feudalism-small.pcx
+#ICON_PRTO_TRANSORBITAL_CRUISER
+art\civilopedia\icons\units\MonCalamari_lg.pcx
+art\civilopedia\icons\units\MonCalamari_sm.pcx
+#ANIMNAME_PRTO_TRANSORBITAL_CRUISER
+MC90
+#ICON_PRTO_BATTLE_DROID
+art\civilopedia\icons\units\zx-10lg.pcx
+art\civilopedia\icons\units\zx-10sm.pcx
+#ANIMNAME_PRTO_BATTLE_DROID
+ZX-10
+#ICON_PRTO_HOVER_ARTILLERY
+art\civilopedia\icons\units\HAl.pcx
+art\civilopedia\icons\units\HAs.pcx
+#ANIMNAME_PRTO_HOVER_ARTILLERY
+Hover Artillery
 #HomelessIcons
 #
 art\civilopedia\icons\terrain\borderslarge.pcx
