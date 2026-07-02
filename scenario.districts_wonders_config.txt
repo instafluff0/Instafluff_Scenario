@@ -156,10 +156,10 @@ buildable_by_civs    = "Japan"
 img_path             = "WondersCustom.PCX"
 name                 = "Taj Mahal"
 enable_img_alt_dir   = 0
-img_row              = 1
-img_column           = 1
-img_construct_row    = 1
-img_construct_column = 0
+img_construct_row    = 5
+img_construct_column = 2
+img_row              = 5
+img_column           = 3
 
 #Wonder
 img_construct_column = 0
