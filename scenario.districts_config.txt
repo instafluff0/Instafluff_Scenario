@@ -114,12 +114,12 @@ dependent_improvs     = "Marketplace", "Bank", "Stock Exchange"
 buildable_on          = desert,plains,grassland,tundra,floodplain,hill
 defense_bonus_percent = 0
 allow_multiple        = 1
-culture_bonus         = 0, Marketplace: 1
 science_bonus         = 0
 food_bonus            = 0
-gold_bonus            = 2, Marketplace: 1, Bank: 1, "Stock Exchange": 1, river: 2
 shield_bonus          = 0
 happiness_bonus       = 0
+culture_bonus         = 0
+gold_bonus            = 0, river: 2
 
 #District
 tooltip               = "Build Industrial Zone"
@@ -137,9 +137,9 @@ culture_bonus         = 0
 science_bonus         = 0
 food_bonus            = 0
 gold_bonus            = 0
-shield_bonus          = 2, Factory: 2, "Autonomous Assembly Plant": 2, river: 2
 happiness_bonus       = 0
 name                  = "Industrial Zone"
+shield_bonus          = 0, river: 2
 
 #District
 name                  = "Data Center"
