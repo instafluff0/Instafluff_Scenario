@@ -2190,9 +2190,11 @@ WarRAV
 #ICON_RACE_CITY_OF_SPARTA
 art\civilopedia\icons\races\sparta.pcx
 art\civilopedia\icons\races\sparta_small.pcx
+art\leaderheads\sparta.pcx
+Art\Civilopedia\Icons\Races\sparta_icon4.pcx
 #RACE_CITY_OF_SPARTA
 art\leaderheads\sparta.pcx
-art\advisors\blank.pcx
+art\advisors\sparta_1.pcx
 #ICON_RACE_CITY_OF_NASSAU
 art\civilopedia\icons\races\nassau.pcx
 art\civilopedia\icons\races\nassau_small.pcx
