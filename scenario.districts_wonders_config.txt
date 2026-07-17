@@ -81,6 +81,7 @@ name                 = "Hagia Sophia"
 img_path             = "WondersCustom.PCX"
 img_construct_row    = 1
 img_row              = 1
+buildable_by_civs    = "Ottomans", "Greece", "Rome", "Byzantines"
 
 #Wonder
 img_construct_row    = 0
@@ -160,6 +161,7 @@ img_construct_row    = 5
 img_construct_column = 2
 img_row              = 5
 img_column           = 3
+buildable_by_civs    = "India"
 
 #Wonder
 img_construct_column = 0
