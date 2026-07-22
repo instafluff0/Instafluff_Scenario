@@ -6,4 +6,3 @@
 - Triumphant Arch winter colors
 - Shrink Triumphant Arch, Tokyo Tower, Eiffel Tower sizes
 - Algo. Gov. WW
-- Gov. optimization of tiles/citizens not being run after turn
